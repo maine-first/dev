@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maine First</title>
+  <meta name="description" content="Maine news, picked by hand and by rule. Every headline links to the original source.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <h1 class="wordmark">MAINE FIRST</h1>
+    <p class="tagline">Maine news, picked by hand and by rule. Every headline links to the original source.</p>
+    <p class="stamp" id="stamp">Loading headlines…</p>
+  </header>
+
+  <main>
+    <section class="splash" id="splash" aria-live="polite"></section>
+    <div class="wall" id="wall">
+      <section class="col"><ul id="col-1"></ul></section>
+      <section class="col"><ul id="col-2"></ul></section>
+      <section class="col"><ul id="col-3"></ul></section>
+    </div>
+    <noscript><p class="notice">This page needs JavaScript to show headlines.</p></noscript>
+  </main>
+
+  <footer class="foot">
+    <p>Curated by Matthew Hogan and built from Bucksport, Maine. Headlines are linked from Maine news outlets; click through for the full story.</p>
+    <p>For straight coverage of state and local government, see <a href="https://maine-politics.github.io/home/">Maine Politics</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
