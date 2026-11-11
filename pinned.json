@@ -1,0 +1,5 @@
+{
+  "_help": "Optional. Set splash to {\"title\": \"...\", \"url\": \"https://...\", \"source\": \"...\"} to force the top headline. Add objects to pins to lock links to the top of the first column. Leave empty and the site runs on autopilot.",
+  "splash": null,
+  "pins": []
+}
