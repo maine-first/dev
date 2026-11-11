@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
-"""Fetch Maine news feeds, score them with config.json, write feed.json."""
+"""Fetch feeds from config.json, score, filter, dedupe, write feed.json.
+
+Design:
+- Per-feed `include` keyword allowlist (compiled once), applied at fetch time.
+- Per-feed `max_items` override of global max_per_source.
+- Per-feed `tag` carried through to output (e.g. "primary", "poll").
+- Global boosts/mutes as before, compiled once.
+- Fails safe: keeps existing feed.json if the run would blank it.
+"""
+
 import html
 import json
 import re
@@ -15,6 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = "Mozilla/5.0 (compatible; MaineFirstBot/1.0; +https://maine-first.github.io/)"
 TAG = re.compile(r"<[^>]+>")
 
+# ---------------------------------------------------------------- helpers
 
 def local(tag):
     return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
@@ -68,27 +78,6 @@ def canon(u):
     return urlunsplit((p.scheme, p.netloc.lower(), p.path.rstrip("/"), "", ""))
 
 
-def fetch(feed):
-    req = Request(feed["url"], headers={
-        "User-Agent": UA,
-        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-    })
-    with urlopen(req, timeout=25) as r:
-        data = r.read()
-    root = ET.fromstring(data)
-    out = []
-    for el in root.iter():
-        if local(el.tag) not in ("item", "entry"):
-            continue
-        title = clean(child_text(el, "title"))
-        link = child_link(el)
-        if not title or not link.startswith(("http://", "https://")):
-            continue
-        dt = parse_date(child_text(el, "pubDate", "published", "updated", "date"))
-        out.append({"title": title, "url": link, "source": feed["name"], "dt": dt})
-    return out
-
-
 def term_regex(term):
     return re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)", re.I)
 
@@ -101,16 +90,64 @@ def load_json(path, default):
 
 
 def pin_item(p):
-    if not isinstance(p, dict) or not str(p.get("url", "")).startswith(("http://", "https://")) or not p.get("title"):
+    """Validate and normalize a manual pin entry."""
+    if not isinstance(p, dict):
         return None
-    return {"title": clean(p["title"]), "url": p["url"], "source": p.get("source", ""), "published": None}
+    url = str(p.get("url", "")).strip()
+    title = clean(p.get("title", ""))
+    if not url.startswith(("http://", "https://")) or not title:
+        return None
+    return {
+        "title": title,
+        "url": url,
+        "source": clean(p.get("source", "")) or "Maine First",
+        "tag": (p.get("tag") or "").strip().lower(),
+        "published": parse_date(p.get("published")).isoformat(timespec="seconds")
+                     if p.get("published") and parse_date(p.get("published")) else None,
+    }
 
+# ---------------------------------------------------------------- fetch
+
+def fetch(feed, include_rx, cap):
+    """Fetch one feed and return surviving entries, with include filter applied."""
+    req = Request(feed["url"], headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    })
+    with urlopen(req, timeout=25) as r:
+        data = r.read()
+    root = ET.fromstring(data)
+
+    out = []
+    for el in root.iter():
+        if local(el.tag) not in ("item", "entry"):
+            continue
+        title = clean(child_text(el, "title"))
+        link = child_link(el)
+        if not title or not link.startswith(("http://", "https://")):
+            continue
+        if include_rx and not any(rx.search(title) for rx in include_rx):
+            continue
+        dt = parse_date(child_text(el, "pubDate", "published", "updated", "date"))
+        out.append({
+            "title": title,
+            "url": link,
+            "source": feed["name"],
+            "tag": (feed.get("tag") or "").strip().lower(),
+            "dt": dt,
+        })
+        if len(out) >= cap:
+            break
+    return out
+
+# ---------------------------------------------------------------- main
 
 def main():
     cfg = load_json(ROOT / "config.json", None)
     if not cfg:
         print("config.json missing or invalid", file=sys.stderr)
         return 1
+
     pinned = load_json(ROOT / "pinned.json", {})
     now = datetime.now(timezone.utc)
 
@@ -118,30 +155,47 @@ def main():
     mutes = [term_regex(m) for m in cfg.get("mutes", [])]
     weights = {f["name"]: float(f.get("weight", 1)) for f in cfg["feeds"]}
 
+    global_cap = int(cfg.get("max_per_source", 10))
+    per_feed_cap = {
+        f["name"]: int(f.get("max_items", global_cap)) for f in cfg["feeds"]
+    }
+
+    # Pre-compile per-feed include filters.
+    include_by_feed = {
+        f["name"]: [term_regex(t) for t in f.get("include", [])] for f in cfg["feeds"]
+    }
+
     entries = []
     for feed in cfg["feeds"]:
         try:
-            got = fetch(feed)
+            got = fetch(feed, include_by_feed[feed["name"]], per_feed_cap[feed["name"]])
             print(f"ok   {feed['name']}: {len(got)} entries")
             entries.extend(got)
-        except Exception as e:  # one bad feed must not sink the run
+        except Exception as e:
             print(f"FAIL {feed['name']}: {e}", file=sys.stderr)
 
+    # ---- score ----
     candidates = []
     for e in entries:
         if any(m.search(e["title"]) for m in mutes):
             continue
-        age_h = (now - e["dt"]).total_seconds() / 3600 if e["dt"] else 24.0
-        age_h = max(age_h, 0.0)
+        if e["dt"]:
+            age_h = (now - e["dt"]).total_seconds() / 3600
+            if age_h < 0:
+                age_h = 0.0
+                print(f"     (future-dated, clamped): {e['title'][:60]}", file=sys.stderr)
+        else:
+            age_h = 24.0
         if age_h > cfg["max_age_hours"]:
             continue
-        score = weights[e["source"]]
+
+        score = weights.get(e["source"], 1.0)
         score += cfg["recency_weight"] * 0.5 ** (age_h / cfg["half_life_hours"])
         score += sum(w for rx, w in boosts if rx.search(e["title"]))
         e["score"] = score
         candidates.append(e)
 
-    # highest score first; skip any entry whose URL or title was already taken
+    # ---- rank + dedupe ----
     ranked, seen = [], set()
     for e in sorted(candidates, key=lambda x: x["score"], reverse=True):
         keys = (canon(e["url"]), re.sub(r"\W+", "", e["title"].lower()))
@@ -150,23 +204,33 @@ def main():
         seen.update(keys)
         ranked.append(e)
 
-    # per-source cap so one outlet can't flood the wall
+    # ---- per-source cap ----
     counts, picked = {}, []
     for e in ranked:
-        if counts.get(e["source"], 0) >= cfg["max_per_source"]:
+        cap = per_feed_cap.get(e["source"], global_cap)
+        if counts.get(e["source"], 0) >= cap:
             continue
         counts[e["source"]] = counts.get(e["source"], 0) + 1
         picked.append({
-            "title": e["title"], "url": e["url"], "source": e["source"],
+            "title": e["title"],
+            "url": e["url"],
+            "source": e["source"],
+            "tag": e["tag"],
             "published": e["dt"].isoformat(timespec="seconds") if e["dt"] else None,
         })
 
     out_path = ROOT / "feed.json"
     old = load_json(out_path, {})
-    if not picked and old.get("items"):
-        print("No fresh entries from any feed; keeping existing feed.json", file=sys.stderr)
-        return 0
 
+    # Safety: don't blank the site if this run produced nothing useful.
+    if not picked:
+        if old.get("items"):
+            print("No candidates survived filtering; keeping existing feed.json",
+                  file=sys.stderr)
+            return 0
+        print("No candidates and no prior feed.json; writing empty feed", file=sys.stderr)
+
+    # ---- splash + pins ----
     splash = pin_item(pinned.get("splash"))
     pins = [p for p in (pin_item(x) for x in pinned.get("pins", [])) if p]
     used = {canon(x["url"]) for x in pins + ([splash] if splash else [])}
@@ -175,6 +239,7 @@ def main():
         splash = rest.pop(0)
     items = (pins + rest)[: cfg["max_items"]]
 
+    # ---- no-op if unchanged ----
     if old.get("splash") == splash and old.get("items") == items:
         print("No change; feed.json left alone")
         return 0
@@ -184,7 +249,9 @@ def main():
         "splash": splash,
         "items": items,
     }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"Wrote feed.json: splash + {len(items)} items")
+
+    tagged = sum(1 for i in items if i.get("tag"))
+    print(f"Wrote feed.json: splash + {len(items)} items ({tagged} tagged)")
     return 0
 
 
