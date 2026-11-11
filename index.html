@@ -3,32 +3,48 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Maine First</title>
+  <title>Maine First — Maine news, curated</title>
   <meta name="description" content="Maine news, picked by hand and by rule. Every headline links to the original source.">
-  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#1f3a2e">
+  <meta property="og:title" content="Maine First">
+  <meta property="og:description" content="Maine news, picked by hand and by rule.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <a class="skip" href="#main">Skip to headlines</a>
+
   <header class="masthead">
-    <h1 class="wordmark">MAINE FIRST</h1>
+    <div class="masthead-row">
+      <h1 class="wordmark">Maine First</h1>
+      <p class="stamp" id="stamp" aria-live="polite">Loading headlines…</p>
+    </div>
     <p class="tagline">Maine news, picked by hand and by rule. Every headline links to the original source.</p>
-    <p class="stamp" id="stamp">Loading headlines…</p>
   </header>
 
-  <main>
-    <section class="splash" id="splash" aria-live="polite"></section>
-    <div class="wall" id="wall">
-      <section class="col"><ul id="col-1"></ul></section>
-      <section class="col"><ul id="col-2"></ul></section>
-      <section class="col"><ul id="col-3"></ul></section>
-    </div>
-    <noscript><p class="notice">This page needs JavaScript to show headlines.</p></noscript>
+  <main id="main">
+    <noscript>
+      <p class="notice">
+        Maine First needs JavaScript to load today's headlines.
+        You can still read the <a href="feed.json">raw feed</a>.
+      </p>
+    </noscript>
+
+    <section class="splash" id="splash" aria-label="Top story" hidden></section>
+
+    <section class="roundup" id="roundup" aria-labelledby="roundup-h">
+      <h2 id="roundup-h" class="section-h">Latest headlines</h2>
+      <ol class="feed" id="feed"></ol>
+      <p class="notice" id="empty" hidden></p>
+    </section>
   </main>
 
   <footer class="foot">
-    <p>Curated by Matthew Hogan and built from Bucksport, Maine. Headlines are linked from Maine news outlets; click through for the full story.</p>
+    <p>Curated by Matthew Hogan and built from Bucksport, Maine. Headlines link to the original outlets; click through for the full story.</p>
     <p>For straight coverage of state and local government, see <a href="https://maine-politics.github.io/home/">Maine Politics</a>.</p>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="app.js" defer></script>
 </body>
 </html>
