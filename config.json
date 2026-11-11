@@ -1,18 +1,51 @@
 {
-  "_help": "Edit weights, boosts and mutes any time. Saving this file triggers a refresh. Feed URLs came from public RSS directories; remove any that fail.",
-  "max_items": 36,
+  "_help": "Edit weights, boosts and mutes any time. Saving this file triggers a refresh. Feed URLs came from public RSS directories; remove any that fail. Per-feed keys: 'include' (keyword allowlist; title must match one), 'tag' (carried to output, e.g. 'primary' or 'poll'), 'max_items' (overrides global max_per_source for that feed).",
+  "max_items": 60,
   "max_age_hours": 72,
   "half_life_hours": 12,
   "recency_weight": 3,
-  "max_per_source": 8,
+  "max_per_source": 6,
   "feeds": [
-    { "name": "The Maine Wire",       "url": "https://www.themainewire.com/feed/",                  "weight": 3.0 },
-    { "name": "Bangor Daily News",    "url": "https://www.bangordailynews.com/feed/",               "weight": 1.5 },
-    { "name": "Sun Journal",          "url": "https://www.sunjournal.com/news/feed/",               "weight": 1.2 },
-    { "name": "Portland Press Herald","url": "https://www.pressherald.com/category/news/feed/",     "weight": 1.0 },
-    { "name": "Central Maine",        "url": "https://www.centralmaine.com/feed/",                  "weight": 1.0 },
-    { "name": "The Maine Monitor",    "url": "https://themainemonitor.org/feed/",                   "weight": 1.0 },
-    { "name": "Maine Public",         "url": "https://www.mainepublic.org/maine.rss",               "weight": 1.0 }
+    { "name": "The Maine Wire",        "url": "https://www.themainewire.com/feed/",              "weight": 3.0 },
+    { "name": "Bangor Daily News",     "url": "https://www.bangordailynews.com/feed/",           "weight": 1.5 },
+    { "name": "Sun Journal",           "url": "https://www.sunjournal.com/news/feed/",           "weight": 1.2 },
+    { "name": "Portland Press Herald", "url": "https://www.pressherald.com/category/news/feed/", "weight": 1.0 },
+    { "name": "Central Maine",         "url": "https://www.centralmaine.com/feed/",              "weight": 1.0 },
+    { "name": "The Maine Monitor",     "url": "https://themainemonitor.org/feed/",               "weight": 1.0 },
+    { "name": "Maine Public",          "url": "https://www.mainepublic.org/maine.rss",           "weight": 1.0 },
+
+    {
+      "name": "RealClearPolitics",
+      "url": "https://www.realclearpolitics.com/index.xml",
+      "weight": 1.1,
+      "tag": "poll",
+      "include": ["poll", "primary", "2028", "GOP", "Republican", "presidential"],
+      "max_items": 6
+    },
+    {
+      "name": "Drudge Report",
+      "url": "https://feedpress.me/drudgereportfeed",
+      "weight": 0.9,
+      "tag": "primary",
+      "include": ["2028", "primary", "GOP", "Republican", "poll", "Vance", "Rubio", "DeSantis", "Cruz", "presidential"],
+      "max_items": 4
+    },
+    {
+      "name": "Breitbart",
+      "url": "https://feeds.feedburner.com/breitbart",
+      "weight": 0.8,
+      "tag": "primary",
+      "include": ["2028", "primary", "GOP", "Republican", "poll", "Vance", "Rubio", "DeSantis", "Cruz", "presidential"],
+      "max_items": 4
+    },
+    {
+      "name": "RedState",
+      "url": "https://redstate.com/feed/",
+      "weight": 0.8,
+      "tag": "primary",
+      "include": ["2028", "primary", "GOP", "Republican", "poll", "Vance", "Rubio", "DeSantis", "Cruz", "presidential"],
+      "max_items": 4
+    }
   ],
   "boosts": {
     "tax": 1.0, "taxes": 1.0, "budget": 1.0, "spending": 1.0,
@@ -20,7 +53,10 @@
     "immigration": 1.2, "asylum": 1.0, "ranked-choice": 1.0,
     "MaineCare": 1.0, "fraud": 1.2, "crime": 0.8,
     "school board": 0.8, "lawsuit": 0.6, "governor": 0.6, "Legislature": 0.6,
-    "lobster": 0.6
+    "lobster": 0.6,
+
+    "2028": 0.6, "primary": 1.0, "poll": 0.8, "GOP": 0.8,
+    "Vance": 0.6, "Rubio": 0.6, "DeSantis": 0.6, "Cruz": 0.6
   },
   "mutes": ["obituary", "obituaries", "horoscope", "crossword", "photos:", "recipe"]
 }
