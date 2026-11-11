@@ -1,0 +1,55 @@
+name: Fetch feeds
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub's scheduler can lag 10–40+ min on low-traffic
+    # repos; that's a platform limitation, not a config issue.
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Serialize runs so two overlapping fetches can't race on the commit.
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        # Only needed if fetch_feeds.py ever imports third-party packages.
+        # Your current script is stdlib-only, so this is a no-op unless you
+        # add feedparser/dateutil later. Keep it for forward-compat.
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Fetch feeds
+        run: python scripts/fetch_feeds.py
+
+      - name: Commit updated feed if changed
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed.json pinned.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh feeds [automated]"
+            # concurrency guard means a plain push is safe here;
+            # --rebase handles the edge case where main moved on GitHub UI.
+            git pull --rebase origin main
+            git push
+          fi
