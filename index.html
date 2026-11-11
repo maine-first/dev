@@ -9,7 +9,6 @@
   <meta property="og:title" content="Maine First">
   <meta property="og:description" content="Maine news, picked by hand and by rule.">
   <meta property="og:type" content="website">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -25,10 +24,8 @@
 
   <main id="main">
     <noscript>
-      <p class="notice">
-        Maine First needs JavaScript to load today's headlines.
-        You can still read the <a href="feed.json">raw feed</a>.
-      </p>
+      <p class="notice">Maine First needs JavaScript. You can still read the
+        <a href="feed.json">raw feed</a>.</p>
     </noscript>
 
     <section class="splash" id="splash" aria-label="Top story" hidden></section>
@@ -37,6 +34,11 @@
       <h2 id="roundup-h" class="section-h">Latest headlines</h2>
       <ol class="feed" id="feed"></ol>
       <p class="notice" id="empty" hidden></p>
+    </section>
+
+    <section class="roundup" id="primary-section" aria-labelledby="primary-h" hidden>
+      <h2 id="primary-h" class="section-h">2028 Primary Watch</h2>
+      <ol class="feed" id="primary-feed"></ol>
     </section>
   </main>
 
