@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:25:58+00:00",
+  "updated": "2026-11-12T11:24:21+00:00",
   "splash": {
     "title": "Oxford County budget calls for 11% increase in spending",
     "url": "https://www.sunjournal.com/2026/11/12/oxford-county-budget-calls-for-11-increase-in-spending/",
@@ -65,6 +65,13 @@
       "published": "2026-11-11T14:59:22+00:00"
     },
     {
+      "title": "Eight Maine Towns Vote Overwhelmingly to Restrict Data Center Construction",
+      "url": "https://www.themainewire.com/2026/11/eight-maine-towns-vote-overwhelmingly-to-restrict-data-center-construction/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-11T14:17:16+00:00"
+    },
+    {
       "title": "Auburn church hosting harvest supper Saturday | Sun Spots",
       "url": "https://www.sunjournal.com/2026/11/12/auburn-church-hosting-harvest-supper-saturday-sun-spots/",
       "source": "Sun Journal",
@@ -93,11 +100,11 @@
       "published": "2026-11-12T09:00:00+00:00"
     },
     {
-      "title": "Eight Maine Towns Vote Overwhelmingly to Restrict Data Center Construction",
-      "url": "https://www.themainewire.com/2026/11/eight-maine-towns-vote-overwhelmingly-to-restrict-data-center-construction/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-11T14:17:16+00:00"
+      "title": "Senate GOP Must Follow Rules, Rehold Leadership Elections",
+      "url": "https://www.realclearpolitics.com/2026/11/11/senate_gop_must_follow_rules_rehold_leadership_elections_717407.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-12T02:38:02+00:00"
     },
     {
       "title": "Our healthcare system is failing us. There are alternatives.",
@@ -133,13 +140,6 @@
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-12T06:00:00+00:00"
-    },
-    {
-      "title": "Senate GOP Must Follow Rules, Rehold Leadership Elections",
-      "url": "https://www.realclearpolitics.com/2026/11/11/senate_gop_must_follow_rules_rehold_leadership_elections_717407.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-12T02:38:02+00:00"
     },
     {
       "title": "The climate majority doesn’t know its own strength | Opinion",
@@ -226,18 +226,18 @@
       "published": "2026-11-11T21:41:43+00:00"
     },
     {
-      "title": "Veterans honored at Biddeford-Saco parade | Photos",
-      "url": "https://www.pressherald.com/2026/11/11/veterans-honored-at-biddeford-saco-parade-photos/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-11T21:16:10+00:00"
-    },
-    {
       "title": "Nearly all of $1 million in cuts from Washington County budget are in sheriff’s office",
       "url": "https://themainemonitor.org/washington-county-budget-cuts-sheriffs-office/",
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-10T21:53:38+00:00"
+    },
+    {
+      "title": "Veterans honored at Biddeford-Saco parade | Photos",
+      "url": "https://www.pressherald.com/2026/11/11/veterans-honored-at-biddeford-saco-parade-photos/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-11T21:16:10+00:00"
     },
     {
       "title": "Waldo County tackles deferred upgrades, rising costs in $14.8 million budget draft for 2027",
