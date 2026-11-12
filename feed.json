@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T04:43:53+00:00",
+  "updated": "2026-11-12T05:47:05+00:00",
   "splash": {
     "title": "Burgum Vows To Unleash American Energy — Now He Just Needs Congress To Do Their Part",
     "url": "https://www.themainewire.com/2026/11/burgum-vows-to-unleash-american-energy-now-he-just-needs-congress-to-do-their-part/",
@@ -37,11 +37,11 @@
       "published": "2026-11-12T02:38:02+00:00"
     },
     {
-      "title": "Camden to remove street paid parking kiosks in wake of voter poll",
-      "url": "https://www.bangordailynews.com/2026/11/11/midcoast/midcoast-government/camden-to-remove-street-paid-parking-kiosks-in-wake-of-voter-poll/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-11T22:18:07+00:00"
+      "title": "Flying by pricey military jet, Rubio rarely misses a Florida football game...",
+      "url": "https://feedpress.me/link/20202/17522141/flying-by-pricey-military-jet-marco-rubio-never-misses-florida-game",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-12T04:49:36+00:00"
     },
     {
       "title": "Auburn Man Attested After Fleeing Sagadahoc Deputies With Three Pounds of Drugs In His Car",
@@ -51,18 +51,18 @@
       "published": "2026-11-11T14:59:22+00:00"
     },
     {
+      "title": "Camden to remove street paid parking kiosks in wake of voter poll",
+      "url": "https://www.bangordailynews.com/2026/11/11/midcoast/midcoast-government/camden-to-remove-street-paid-parking-kiosks-in-wake-of-voter-poll/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-11T22:18:07+00:00"
+    },
+    {
       "title": "Eight Maine Towns Vote Overwhelmingly to Restrict Data Center Construction",
       "url": "https://www.themainewire.com/2026/11/eight-maine-towns-vote-overwhelmingly-to-restrict-data-center-construction/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-11T14:17:16+00:00"
-    },
-    {
-      "title": "Flying by pricey military jet, Rubio rarely misses a Florida football game...",
-      "url": "https://feedpress.me/link/20202/17522141/flying-by-pricey-military-jet-marco-rubio-never-misses-florida-game",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-12T03:07:36+00:00"
     },
     {
       "title": "Democrat Scott Colom wins election to US Senate from Mississippi",
@@ -128,13 +128,6 @@
       "published": "2026-11-12T00:12:13+00:00"
     },
     {
-      "title": "Southern Maine may see first snow of the season by week’s end",
-      "url": "https://www.sunjournal.com/2026/11/11/southern-maine-may-see-first-snow-of-the-season-by-weeks-end/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-11T21:41:43+00:00"
-    },
-    {
       "title": "GOP Lost Because Party Failed To Deliver",
       "url": "https://www.realclearpolitics.com/2026/11/11/gop_lost_because_party_failed_to_deliver_717302.html",
       "source": "RealClearPolitics",
@@ -142,11 +135,11 @@
       "published": "2026-11-11T14:09:15+00:00"
     },
     {
-      "title": "Watch: Maine high school field hockey championships recap",
-      "url": "https://www.centralmaine.com/2026/11/11/watch-maine-high-school-field-hockey-championships-recap/",
-      "source": "Central Maine",
+      "title": "Southern Maine may see first snow of the season by week’s end",
+      "url": "https://www.sunjournal.com/2026/11/11/southern-maine-may-see-first-snow-of-the-season-by-weeks-end/",
+      "source": "Sun Journal",
       "tag": "",
-      "published": "2026-11-11T22:57:15+00:00"
+      "published": "2026-11-11T21:41:43+00:00"
     },
     {
       "title": "GOP Facing Major Texas Mess After Dem Takeover",
@@ -154,6 +147,13 @@
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-11T13:19:54+00:00"
+    },
+    {
+      "title": "Watch: Maine high school field hockey championships recap",
+      "url": "https://www.centralmaine.com/2026/11/11/watch-maine-high-school-field-hockey-championships-recap/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-11T22:57:15+00:00"
     },
     {
       "title": "Lewiston-Auburn celebrate Veterans Day: ‘The weight of what you carry, no scale can measure’",
@@ -184,18 +184,18 @@
       "published": "2026-11-11T21:28:22+00:00"
     },
     {
-      "title": "Veterans honored at Biddeford-Saco parade | Photos",
-      "url": "https://www.pressherald.com/2026/11/11/veterans-honored-at-biddeford-saco-parade-photos/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-11T21:16:10+00:00"
-    },
-    {
       "title": "Jay begins solar rule review after voters approve 6-month moratorium",
       "url": "https://www.sunjournal.com/2026/11/11/jay-begins-solar-rule-review-after-moratorium/",
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-11T19:20:03+00:00"
+    },
+    {
+      "title": "Veterans honored at Biddeford-Saco parade | Photos",
+      "url": "https://www.pressherald.com/2026/11/11/veterans-honored-at-biddeford-saco-parade-photos/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-11T21:16:10+00:00"
     },
     {
       "title": "Sanford approves plan to reopen Heritage Crossing once security cameras are installed",
