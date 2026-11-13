@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-13T20:39:37+00:00",
+  "updated": "2026-11-13T21:34:54+00:00",
   "splash": {
-    "title": "Bucksport Man Arrested For Disorderly Conduct At Bangor Police Department",
-    "url": "https://www.themainewire.com/2026/11/bucksport-man-arrested-for-disorderly-conduct-at-bangor-police-department/",
+    "title": "Hawley Pushes National Data Center Moratorium A Week After Midterm Shellacking",
+    "url": "https://www.themainewire.com/2026/11/hawley-pushes-national-data-center-moratorium-a-week-after-midterm-shellacking/",
     "source": "The Maine Wire",
     "tag": "",
-    "published": "2026-11-13T18:21:19+00:00"
+    "published": "2026-11-13T20:54:37+00:00"
   },
   "items": [
+    {
+      "title": "Bucksport Man Arrested For Disorderly Conduct At Bangor Police Department",
+      "url": "https://www.themainewire.com/2026/11/bucksport-man-arrested-for-disorderly-conduct-at-bangor-police-department/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-13T18:21:19+00:00"
+    },
     {
       "title": "Calais Border Patrol Find Canadian Illegals Establising a Campsite on Island",
       "url": "https://www.themainewire.com/2026/11/calais-border-patrol-find-canadian-illegals-establising-a-campsite-on-island/",
@@ -30,25 +37,11 @@
       "published": "2026-11-13T16:01:39+00:00"
     },
     {
-      "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
-      "url": "https://www.bangordailynews.com/2026/11/13/nation/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-13T18:54:15+00:00"
-    },
-    {
       "title": "Paul LePage Declared Winner in CD2 Race as Ranked Choice Voting Tabulations Conclude",
       "url": "https://www.themainewire.com/2026/11/paul-lepage-declared-winner-in-cd2-race-as-ranked-choice-voting-tabulations-conclude/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-13T13:52:22+00:00"
-    },
-    {
-      "title": "Chellie Pingree’s Longtime Chief of Staff Will Hold Same Role in Her Daughter’s Administration",
-      "url": "https://www.themainewire.com/2026/11/chellie-pingrees-longtime-chief-of-staff-will-hold-same-role-in-her-daughters-administration/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-13T13:25:57+00:00"
     },
     {
       "title": "First '28 Democratic Primary Already Underway. For Staff",
@@ -58,11 +51,60 @@
       "published": "2026-11-13T19:16:17+00:00"
     },
     {
-      "title": "‘Quiet the Sirens’, Colonial Theatre teams up with Upwell Psychiatry for a Robbins Lumber fire recovery fundraiser",
-      "url": "https://www.bangordailynews.com/2026/11/13/bdn-maine/quiet-the-sirens-colonial-theatre-teams-up-with-upwell-psychiatry-for-a-robbins-lumber-fire-recovery-fundraiser/",
+      "title": "Gut Punch for Republicans: Lauren Boebert Loses Colorado's 'Safest' GOP Seat",
+      "url": "https://redstate.com/terichristoph/2026/11/13/ddhq-calls-boebert-race-n2209380",
+      "source": "RedState",
+      "tag": "primary",
+      "published": "2026-11-13T20:53:40+00:00"
+    },
+    {
+      "title": "UMaine Extension 4-H offers educational workshop on invasive species in Blue Hill",
+      "url": "https://www.bangordailynews.com/2026/11/13/bdn-maine/umaine-extension-4-h-offers-educational-workshop-on-invasive-species-in-blue-hill/",
       "source": "Bangor Daily News",
       "tag": "",
-      "published": "2026-11-13T20:27:32+00:00"
+      "published": "2026-11-13T21:23:43+00:00"
+    },
+    {
+      "title": "Police release names in fatal Hermon crash",
+      "url": "https://www.bangordailynews.com/2026/11/13/bangor/bangor-police-courts/ashley-benningfield-fatal-hermon-crash/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-13T21:23:05+00:00"
+    },
+    {
+      "title": "Penquis C.A.P., Inc receives $1,000 from BJ’s Charitable Foundation for holiday meal assistance",
+      "url": "https://www.bangordailynews.com/2026/11/13/bdn-maine/penquis-c-a-p-inc-receives-1000-from-bjs-charitable-foundation-for-holiday-meal-assistance/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-13T21:12:53+00:00"
+    },
+    {
+      "title": "Joe Biden’s White House memoir is an unapologetic defense of four years sandwiched between Trump",
+      "url": "https://www.bangordailynews.com/2026/11/13/nation/joe-bidens-white-house-memoir-is-an-unapologetic-defense-of-four-years-sandwiched-between-trump/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-13T21:10:30+00:00"
+    },
+    {
+      "title": "How Maine’s 2-decade-old school consolidation effort continues to unravel",
+      "url": "https://www.bangordailynews.com/2026/11/13/state/state-education/maine-school-consolidation-effort-unravels/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-13T21:03:31+00:00"
+    },
+    {
+      "title": "Brooklyn building collapse raises questions about city oversight and safety precautions",
+      "url": "https://www.bangordailynews.com/2026/11/13/nation/brooklyn-building-collapse-raises-questions-about-city-oversight-and-safety-precautions/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-13T20:49:15+00:00"
+    },
+    {
+      "title": "Republicans Need DeSantis--Just Not in 2028",
+      "url": "https://www.realclearpolitics.com/2026/11/13/republicans_need_desantis--just_not_in_2028_717375.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-13T14:34:43+00:00"
     },
     {
       "title": "Poll Shows Voters Spoke on Election Night — Democrats Aren't Going to Listen",
@@ -86,39 +128,11 @@
       "published": "2026-11-13T20:10:36+00:00"
     },
     {
-      "title": "Republicans Need DeSantis--Just Not in 2028",
-      "url": "https://www.realclearpolitics.com/2026/11/13/republicans_need_desantis--just_not_in_2028_717375.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-13T14:34:43+00:00"
-    },
-    {
-      "title": "Survivors of the deadly Brooklyn building collapse recall shock, terror and grief",
-      "url": "https://www.bangordailynews.com/2026/11/13/nation/survivors-of-the-deadly-brooklyn-building-collapse-recall-shock-terror-and-grief/",
-      "source": "Bangor Daily News",
+      "title": "Belfast approves loan for CG Bikes to complete Brownfield cleanup work",
+      "url": "https://themainemonitor.org/belfast-approves-brownfield-cleanup-loan/",
+      "source": "The Maine Monitor",
       "tag": "",
-      "published": "2026-11-13T20:07:30+00:00"
-    },
-    {
-      "title": "UMaine football travels to Albany for CAA contest; MMA hosts Husson",
-      "url": "https://www.bangordailynews.com/2026/11/13/sports/college-football/umaine-football-albany-mma-husson/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-13T20:04:59+00:00"
-    },
-    {
-      "title": "Massachusetts man gets more than 5 years for fatal Maine Turnpike crash",
-      "url": "https://www.bangordailynews.com/2026/11/13/york/york-police-courts/wells-maine-turnpike-fatal-crash-sentencing-oguzhan-cildir/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-13T18:59:30+00:00"
-    },
-    {
-      "title": "High levels of lead found in drinking water at midcoast school",
-      "url": "https://www.bangordailynews.com/2026/11/13/midcoast/midcoast-education/high-levels-of-lead-found-in-drinking-water-at-midcoast-school/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-13T18:53:21+00:00"
+      "published": "2026-11-13T21:20:52+00:00"
     },
     {
       "title": "Washington County Commission to ask governor to appoint treasurer",
@@ -126,6 +140,27 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-13T17:22:33+00:00"
+    },
+    {
+      "title": "Capitol Park path gets fresh crushed stone in Augusta | Photo",
+      "url": "https://www.centralmaine.com/2026/11/13/capitol-park-path-gets-fresh-crushed-stone-in-augusta-photo/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-13T21:12:04+00:00"
+    },
+    {
+      "title": "Lincoln’s conservative bloc loses its majority after voters oust David Ireland ally",
+      "url": "https://themainemonitor.org/lincoln-conservative-bloc-loses-majority/",
+      "source": "The Maine Monitor",
+      "tag": "",
+      "published": "2026-11-13T21:00:00+00:00"
+    },
+    {
+      "title": "Live updates: Maine high school football teams vying for state title game berths",
+      "url": "https://www.centralmaine.com/2026/11/13/maine-high-school-football-teams-vying-for-state-title-game-berths/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-13T20:57:07+00:00"
     },
     {
       "title": "Paris-based school district hires second interim superintendent",
@@ -142,11 +177,25 @@
       "published": "2026-11-13T20:09:37+00:00"
     },
     {
+      "title": "Eagles battle for breakfast in Lewiston | Photo/video",
+      "url": "https://www.sunjournal.com/2026/11/13/eagles-battle-for-breakfast-in-lewiston-photo-video/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-13T18:31:15+00:00"
+    },
+    {
       "title": "This map shows how Susan Collins’ electoral firewall crumbled in York County and other parts of Maine",
       "url": "https://themainemonitor.org/how-collins-electoral-firewall-crumbled/",
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-13T19:45:06+00:00"
+    },
+    {
+      "title": "How Dems Won Big--and Why 2028 Is Up for Grabs",
+      "url": "https://www.realclearpolitics.com/2026/11/13/how_dems_won_big--and_why_2028_is_up_for_grabs_717520.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-13T14:31:32+00:00"
     },
     {
       "title": "2026 Central Maine Athlete of the Week: Fall Week 10",
@@ -184,13 +233,6 @@
       "published": "2026-11-13T19:30:35+00:00"
     },
     {
-      "title": "How Dems Won Big--and Why 2028 Is Up for Grabs",
-      "url": "https://www.realclearpolitics.com/2026/11/13/how_dems_won_big--and_why_2028_is_up_for_grabs_717520.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-13T14:31:32+00:00"
-    },
-    {
       "title": "Erosion forces closure of road along Sandy River in Phillips",
       "url": "https://www.sunjournal.com/2026/11/13/erosion-forces-closure-of-road-along-sandy-river-in-phillips/",
       "source": "Sun Journal",
@@ -226,7 +268,7 @@
       "published": "2026-11-13T18:33:06+00:00"
     },
     {
-      "title": "Old Orchard Beach to receive new school",
+      "title": "Old Orchard Beach on state funding list for new school",
       "url": "https://www.pressherald.com/2026/11/13/old-orchard-beach-to-receive-new-school/",
       "source": "Portland Press Herald",
       "tag": "",
@@ -238,20 +280,6 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-13T17:28:54+00:00"
-    },
-    {
-      "title": "St. Dominic Academy is alive and well in Auburn | Letter",
-      "url": "https://www.centralmaine.com/2026/11/13/st-dominic-academy-is-alive-and-well-in-auburn-letter/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "title": "Patriots need to bounce back against Lions in Germany",
-      "url": "https://www.centralmaine.com/2026/11/13/patriots-need-to-bounce-back-against-lions-in-germany/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-13T17:00:00+00:00"
     },
     {
       "title": "Scarborough changes tree clearing rules after cutting controversies",
@@ -282,13 +310,6 @@
       "published": "2026-11-13T15:01:02+00:00"
     },
     {
-      "title": "Fisheries regulator cuts menhaden catch limit, adopting uneasy compromise proposed by Maine",
-      "url": "https://themainemonitor.org/fisheries-regulator-cuts-menhaden-catch-limit/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-13T14:00:00+00:00"
-    },
-    {
       "title": "GOP Sen. Kennedy: Bessent, Lutnick Need to Testify Before Congress on China Chips",
       "url": "https://www.breitbart.com/clips/2026/11/12/gop-sen-kennedy-bessent-lutnick-need-to-testify-before-congress-on-china-chips/",
       "source": "Breitbart",
@@ -310,11 +331,11 @@
       "published": "2026-11-13T09:00:00+00:00"
     },
     {
-      "title": "At 25, his Lewiston brewery took the craft beer world by storm. Now he’s helping other local products get noticed.",
-      "url": "https://www.sunjournal.com/2026/11/13/at-25-his-lewiston-brewery-took-the-craft-beer-world-by-storm-now-hes-helping-other-local-products-get-noticed/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-13T09:00:00+00:00"
+      "title": "GOP Sen. Banks: We Shouldn't Sell Any Chips to China, Lutnick and NVIDIA Lobbied Against Bill on That",
+      "url": "https://www.breitbart.com/clips/2026/11/12/gop-sen-banks-we-shouldnt-sell-any-chips-to-china-lutnick-and-nvidia-lobbied-against-bill-on-that/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-13T02:53:27+00:00"
     },
     {
       "title": "GOP Sen. Banks: Lutnick Needs to Testify, I Think He 'Defied' Trump Directive on China, High-End Chips",
@@ -322,20 +343,6 @@
       "source": "Breitbart",
       "tag": "primary",
       "published": "2026-11-13T02:53:25+00:00"
-    },
-    {
-      "title": "Sen. Kennedy on JD Vance Blaming Iran War for Midterm Loss: 'Put Down the Crack Pipe'",
-      "url": "https://www.breitbart.com/clips/2026/11/12/sen-kennedy-on-jd-vance-blaming-iran-war-for-midterm-loss-put-down-the-crack-pipe/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-12T23:44:07+00:00"
-    },
-    {
-      "title": "Maine voters rarely have a choice for this obscure office. They still won’t give it up.",
-      "url": "https://themainemonitor.org/maine-voters-electing-treasurers/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-12T20:01:36+00:00"
     }
   ]
 }
