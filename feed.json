@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:35:42+00:00",
+  "updated": "2026-11-14T04:38:21+00:00",
   "splash": {
     "title": "Poll: 42 Percent of Brazilians Believe ‘Fraud’ Happened During Presidential Election",
     "url": "https://www.breitbart.com/latin-america/2026/11/13/poll-42-of-brazilians-believe-fraud-happened-during-runoff-election/",
@@ -51,6 +51,13 @@
       "published": "2026-11-14T03:28:36+00:00"
     },
     {
+      "title": "Paul LePage Declared Winner in CD2 Race as Ranked Choice Voting Tabulations Conclude",
+      "url": "https://www.themainewire.com/2026/11/paul-lepage-declared-winner-in-cd2-race-as-ranked-choice-voting-tabulations-conclude/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-13T13:52:22+00:00"
+    },
+    {
       "title": "Boija posts second straight shutout, UMaine hockey skates to 0-0 tie at UVM",
       "url": "https://www.bangordailynews.com/2026/11/13/sports/college-ice-hockey/umaine-hockey-ties-uvm/",
       "source": "Bangor Daily News",
@@ -63,13 +70,6 @@
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-14T03:02:11+00:00"
-    },
-    {
-      "title": "Paul LePage Declared Winner in CD2 Race as Ranked Choice Voting Tabulations Conclude",
-      "url": "https://www.themainewire.com/2026/11/paul-lepage-declared-winner-in-cd2-race-as-ranked-choice-voting-tabulations-conclude/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-13T13:52:22+00:00"
     },
     {
       "title": "First '28 Democratic Primary Already Underway. For Staff",
@@ -170,18 +170,18 @@
       "published": "2026-11-13T20:53:40+00:00"
     },
     {
-      "title": "Anna Bullett wins recount for Portland’s District 4 City Council seat",
-      "url": "https://www.pressherald.com/2026/11/13/anna-bullett-wins-recount-for-portlands-district-4-city-council-seat/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-14T00:32:32+00:00"
-    },
-    {
       "title": "Poll Shows Voters Spoke on Election Night — Democrats Aren't Going to Listen",
       "url": "https://redstate.com/beckynoble/2026/11/13/poll-shows-voters-spoke-on-election-night-democrats-arent-going-to-listen-n2209370",
       "source": "RedState",
       "tag": "primary",
       "published": "2026-11-13T19:35:35+00:00"
+    },
+    {
+      "title": "Anna Bullett wins recount for Portland’s District 4 City Council seat",
+      "url": "https://www.pressherald.com/2026/11/13/anna-bullett-wins-recount-for-portlands-district-4-city-council-seat/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-14T00:32:32+00:00"
     },
     {
       "title": "What to know about Westbrook’s Main Street overhaul plan",
@@ -226,18 +226,18 @@
       "published": "2026-11-13T14:31:32+00:00"
     },
     {
-      "title": "Belfast approves loan for CG Bikes to complete brownfield cleanup work",
-      "url": "https://themainemonitor.org/belfast-approves-brownfield-cleanup-loan/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-13T21:20:52+00:00"
-    },
-    {
       "title": "Paris-based school district hires second interim superintendent",
       "url": "https://www.sunjournal.com/2026/11/13/oxford-hills-school-district-appoints-interim-superintendent/",
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-13T19:32:21+00:00"
+    },
+    {
+      "title": "Belfast approves loan for CG Bikes to complete brownfield cleanup work",
+      "url": "https://themainemonitor.org/belfast-approves-brownfield-cleanup-loan/",
+      "source": "The Maine Monitor",
+      "tag": "",
+      "published": "2026-11-13T21:20:52+00:00"
     },
     {
       "title": "Lincoln’s conservative bloc loses its majority after voters oust David Ireland ally",
