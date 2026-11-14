@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:48:17+00:00",
+  "updated": "2026-11-14T08:37:34+00:00",
   "splash": {
     "title": "Poll: 42 Percent of Brazilians Believe ‘Fraud’ Happened During Presidential Election",
     "url": "https://www.breitbart.com/latin-america/2026/11/13/poll-42-of-brazilians-believe-fraud-happened-during-runoff-election/",
@@ -28,6 +28,20 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-13T18:20:11+00:00"
+    },
+    {
+      "title": "Memorial opens honoring victims of the 2015 Charleston church massacre",
+      "url": "https://www.bangordailynews.com/2026/11/14/nation/memorial-opens-honoring-victims-of-the-2015-charleston-church-massacre/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-14T07:15:11+00:00"
+    },
+    {
+      "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+      "url": "https://www.bangordailynews.com/2026/11/14/nation/thousands-of-flights-canceled-as-airlines-work-to-dig-out-from-nationwide-ground-stop/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-14T07:11:12+00:00"
     },
     {
       "title": "DeSantis eyes rival Mar-a-Lago in last Republican stronghold...",
@@ -74,20 +88,6 @@
     {
       "title": "Letter: Welcome back Arby’s",
       "url": "https://www.bangordailynews.com/2026/11/14/opinion/letters/letter-welcome-back-arbys-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-14T06:00:00+00:00"
-    },
-    {
-      "title": "Brewer poised to allow data centers that use as much power as a small city",
-      "url": "https://www.bangordailynews.com/2026/11/14/bangor/bangor-government/brewer-data-centers-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-14T06:00:00+00:00"
-    },
-    {
-      "title": "Congress must resume military aid to Ukraine to end Russian atrocities",
-      "url": "https://www.bangordailynews.com/2026/11/14/opinion/opinion-contributor/congress-must-resume-military-aid-to-ukraine-to-end-russian-atrocities-joam40zk0w/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-14T06:00:00+00:00"
@@ -156,18 +156,18 @@
       "published": "2026-11-14T02:46:35+00:00"
     },
     {
-      "title": "UMaine men’s hockey ties Vermont",
-      "url": "https://www.centralmaine.com/2026/11/13/umaine-mens-hockey-ties-vermont/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-14T02:34:56+00:00"
-    },
-    {
       "title": "Gut Punch for Republicans: Lauren Boebert Loses Colorado's 'Safest' GOP Seat",
       "url": "https://redstate.com/terichristoph/2026/11/13/ddhq-calls-boebert-race-n2209380",
       "source": "RedState",
       "tag": "primary",
       "published": "2026-11-13T20:53:40+00:00"
+    },
+    {
+      "title": "UMaine men’s hockey ties Vermont",
+      "url": "https://www.centralmaine.com/2026/11/13/umaine-mens-hockey-ties-vermont/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-14T02:34:56+00:00"
     },
     {
       "title": "Here are the Maine high school football scores from around the state",
