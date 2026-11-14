@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:27:11+00:00",
+  "updated": "2026-11-14T11:08:06+00:00",
   "splash": {
     "title": "Let’s do away with wasteful ranked-choice voting | Letter",
     "url": "https://www.centralmaine.com/2026/11/14/lets-do-away-with-wasteful-ranked-choice-voting-letter/",
@@ -8,6 +8,13 @@
     "published": "2026-11-14T09:00:00+00:00"
   },
   "items": [
+    {
+      "title": "Representative Florida",
+      "url": "https://www.bangordailynews.com/2026/11/14/opinion/danby-ink/representative-florida/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-14T11:00:00+00:00"
+    },
     {
       "title": "Poll: 42 Percent of Brazilians Believe ‘Fraud’ Happened During Presidential Election",
       "url": "https://www.breitbart.com/latin-america/2026/11/13/poll-42-of-brazilians-believe-fraud-happened-during-runoff-election/",
@@ -72,18 +79,18 @@
       "published": "2026-11-14T07:11:12+00:00"
     },
     {
-      "title": "Maine is ready to leave the Electoral College. Here’s how it could actually happen.",
-      "url": "https://www.sunjournal.com/2026/11/14/maine-is-ready-to-leave-the-electoral-college-heres-why-it-could-actually-happen/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-14T09:00:00+00:00"
-    },
-    {
       "title": "Paul LePage Declared Winner in CD2 Race as Ranked Choice Voting Tabulations Conclude",
       "url": "https://www.themainewire.com/2026/11/paul-lepage-declared-winner-in-cd2-race-as-ranked-choice-voting-tabulations-conclude/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-13T13:52:22+00:00"
+    },
+    {
+      "title": "Maine is ready to leave the Electoral College. Here’s how it could actually happen.",
+      "url": "https://www.sunjournal.com/2026/11/14/maine-is-ready-to-leave-the-electoral-college-heres-why-it-could-actually-happen/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-14T09:00:00+00:00"
     },
     {
       "title": "Letter: Thanks for help with Caribou spay and neuter clinic",
@@ -102,13 +109,6 @@
     {
       "title": "The hunt went great, until the deer stole his rifle",
       "url": "https://www.bangordailynews.com/2026/11/14/outdoors/hunting/the-hunt-went-great-until-the-deer-stole-his-rifle-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-14T06:00:00+00:00"
-    },
-    {
-      "title": "Letter: Welcome back Arby’s",
-      "url": "https://www.bangordailynews.com/2026/11/14/opinion/letters/letter-welcome-back-arbys-joam40zk0w/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-14T06:00:00+00:00"
@@ -212,13 +212,6 @@
       "published": "2026-11-13T14:31:32+00:00"
     },
     {
-      "title": "What to know about Westbrook’s Main Street overhaul plan",
-      "url": "https://www.pressherald.com/2026/11/13/what-to-know-about-westbrooks-main-street-overhaul-plan/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-13T23:54:22+00:00"
-    },
-    {
       "title": "FAA lifts order grounding flights nationwide",
       "url": "https://www.sunjournal.com/2026/11/13/faa-halts-flights-nationwide/",
       "source": "Sun Journal",
@@ -231,6 +224,13 @@
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-13T21:34:03+00:00"
+    },
+    {
+      "title": "What to know about Westbrook’s Main Street overhaul plan",
+      "url": "https://www.pressherald.com/2026/11/13/what-to-know-about-westbrooks-main-street-overhaul-plan/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-13T23:54:22+00:00"
     },
     {
       "title": "Anti-hunger advocates worried about proposed federal SNAP rule that would tighten eligibility",
