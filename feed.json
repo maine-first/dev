@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:30:32+00:00",
+  "updated": "2026-11-15T23:32:14+00:00",
   "splash": {
     "title": "Fetherston: The Campaign Is Over. Where Is the Plan?",
     "url": "https://www.themainewire.com/2026/11/fetherston-the-campaign-is-over-where-is-the-plan/",
@@ -8,6 +8,13 @@
     "published": "2026-11-15T14:28:45+00:00"
   },
   "items": [
+    {
+      "title": "Officials say a tanker’s steering failed before it crashed into a cruise ship in New Orleans",
+      "url": "https://www.bangordailynews.com/2026/11/15/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-15T22:41:38+00:00"
+    },
     {
       "title": "The Trump Economy Wins GOP Shouldn't Throw Away",
       "url": "https://www.realclearpolitics.com/2026/11/15/the_trump_economy_wins_gop_shouldnt_throw_away_717802.html",
@@ -58,6 +65,13 @@
       "published": "2026-11-15T18:05:47+00:00"
     },
     {
+      "title": "Fetterman threatens to flip Republican...",
+      "url": "https://feedpress.me/link/20202/17525105/article-16294275",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-15T22:37:36+00:00"
+    },
+    {
       "title": "Woman charged in Bangor convenience store robbery",
       "url": "https://www.bangordailynews.com/2026/11/15/bangor/bangor-police-courts/woman-charged-in-bangor-convenience-store-robbery/",
       "source": "Bangor Daily News",
@@ -70,41 +84,6 @@
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-15T17:47:47+00:00"
-    },
-    {
-      "title": "Juvenile bald eagle rescued in Maine recovering from lead poisoning",
-      "url": "https://www.bangordailynews.com/2026/11/15/york/york-environment/maine-juvenile-bald-eagle-lead-poisoning/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-15T17:45:24+00:00"
-    },
-    {
-      "title": "Trump's Message Won Midterms, But GOP Wasn't Delivering It",
-      "url": "https://www.realclearpolitics.com/video/2026/11/14/kat_timpf_trumps_message_won_in_the_midterms_it_just_wasnt_republicans_delivering_it.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-15T13:22:45+00:00"
-    },
-    {
-      "title": "Maddie Fitzpatrick lifts UMaine women’s basketball past Brown",
-      "url": "https://www.centralmaine.com/2026/11/15/maddie-fitzpatrick-lifts-umaine-womens-basketball-past-brown/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-15T20:24:35+00:00"
-    },
-    {
-      "title": "Colby women’s soccer advances in NCAA DIII tournament",
-      "url": "https://www.centralmaine.com/2026/11/15/colby-womens-soccer-advances-in-ncaa-diii-tournament/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-15T20:18:47+00:00"
-    },
-    {
-      "title": "Fetterman threatens to flip Republican...",
-      "url": "https://feedpress.me/link/20202/17525105/article-16294275",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-15T20:55:36+00:00"
     },
     {
       "title": "Federal Judge Rules Hermon School Committee Violated Pines Church’s First Amendment Right, Maine Human Rights Act",
@@ -140,6 +119,27 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-14T19:11:15+00:00"
+    },
+    {
+      "title": "Trump's Message Won Midterms, But GOP Wasn't Delivering It",
+      "url": "https://www.realclearpolitics.com/video/2026/11/14/kat_timpf_trumps_message_won_in_the_midterms_it_just_wasnt_republicans_delivering_it.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-15T13:22:45+00:00"
+    },
+    {
+      "title": "Maddie Fitzpatrick lifts UMaine women’s basketball past Brown",
+      "url": "https://www.centralmaine.com/2026/11/15/maddie-fitzpatrick-lifts-umaine-womens-basketball-past-brown/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-15T20:24:35+00:00"
+    },
+    {
+      "title": "Colby women’s soccer advances in NCAA DIII tournament",
+      "url": "https://www.centralmaine.com/2026/11/15/colby-womens-soccer-advances-in-ncaa-diii-tournament/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-15T20:18:47+00:00"
     },
     {
       "title": "Bowdoin men’s soccer beats St. Lawrence to advance in NCAA DIII tournament",
@@ -247,18 +247,18 @@
       "published": "2026-11-15T09:00:00+00:00"
     },
     {
-      "title": "Gavin Newsom Reveals When He’ll Decide on 2028 Presidential Run",
-      "url": "https://www.breitbart.com/politics/2026/11/14/gavin-newsom-reveals-when-hell-decide-on-2028-presidential-run/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-15T00:10:08+00:00"
-    },
-    {
       "title": "Poll: Party Loyalty, Opposition to Trump, Economy Listed as Top Three Factors in Midterm Voting",
       "url": "https://www.breitbart.com/politics/2026/11/14/poll-party-loyalty-opposition-to-trump-economy-listed-as-top-three-factors-in-midterm-voting/",
       "source": "Breitbart",
       "tag": "primary",
       "published": "2026-11-14T19:17:58+00:00"
+    },
+    {
+      "title": "Gavin Newsom Reveals When He’ll Decide on 2028 Presidential Run",
+      "url": "https://www.breitbart.com/politics/2026/11/14/gavin-newsom-reveals-when-hell-decide-on-2028-presidential-run/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-15T00:10:08+00:00"
     },
     {
       "title": "Washington County Commission to ask governor to appoint treasurer",
