@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:16:24+00:00",
+  "updated": "2026-11-15T20:00:26+00:00",
   "splash": {
     "title": "Fetherston: The Campaign Is Over. Where Is the Plan?",
     "url": "https://www.themainewire.com/2026/11/fetherston-the-campaign-is-over-where-is-the-plan/",
@@ -8,6 +8,27 @@
     "published": "2026-11-15T14:28:45+00:00"
   },
   "items": [
+    {
+      "title": "The Trump Economy Wins GOP Shouldn't Throw Away",
+      "url": "https://www.realclearpolitics.com/2026/11/15/the_trump_economy_wins_gop_shouldnt_throw_away_717802.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-15T19:35:38+00:00"
+    },
+    {
+      "title": "GOP Should Launch Mother of All Lame-Duck Sessions",
+      "url": "https://www.realclearpolitics.com/2026/11/10/gop_should_launch_mother_of_all_lame-duck_sessions_717224.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-15T19:35:22+00:00"
+    },
+    {
+      "title": "Woman critically injured in Raymond crash",
+      "url": "https://www.bangordailynews.com/2026/11/15/central-maine/central-maine-police-courts/woman-critically-injured-in-raymond-crash/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-15T19:43:04+00:00"
+    },
     {
       "title": "Did Trump Just Blow Up JD Vance's 2028 Ambitions?",
       "url": "https://www.realclearpolitics.com/2026/11/15/did_trump_just_blow_up_jd_vances_2028_ambitions_717793.html",
@@ -86,25 +107,11 @@
       "published": "2026-11-15T18:58:36+00:00"
     },
     {
-      "title": "Patriots lose QB Drake Maye in blowout loss to Lions",
-      "url": "https://www.centralmaine.com/2026/11/15/patriots-lose-qb-drake-maye-in-blowout-loss-to-lions/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-15T17:53:24+00:00"
-    },
-    {
       "title": "Federal Judge Rules Hermon School Committee Violated Pines Church’s First Amendment Right, Maine Human Rights Act",
       "url": "https://www.themainewire.com/2026/11/federal-judge-rules-hermon-school-committee-violated-pines-churchs-first-amendment-right-maine-human-rights-act/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-14T19:21:18+00:00"
-    },
-    {
-      "title": "East Machias residents asked to check homes, vehicles for thefts",
-      "url": "https://www.bangordailynews.com/2026/11/15/down-east/downeast-police-courts/east-machias-residents-asked-to-check-homes-vehicles-for-thefts/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-15T14:18:50+00:00"
     },
     {
       "title": "Maine Heating Oil Drops to Average $5.84 Per Gallon",
@@ -128,18 +135,25 @@
       "published": "2026-11-14T19:14:01+00:00"
     },
     {
-      "title": "How Maine’s two-decade old school consolidation effort continues to unravel",
-      "url": "https://www.sunjournal.com/2026/11/15/how-maines-two-decade-old-school-consolidation-effort-continues-to-unravel/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-15T16:26:49+00:00"
-    },
-    {
       "title": "Blacklisted Chinese Military University Gets Its Hands On Powerful American AI Chips",
       "url": "https://www.themainewire.com/2026/11/blacklisted-chinese-military-university-gets-its-hands-on-powerful-american-ai-chips/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-14T19:11:15+00:00"
+    },
+    {
+      "title": "Patriots lose QB Drake Maye in blowout loss to Lions",
+      "url": "https://www.centralmaine.com/2026/11/15/patriots-lose-qb-drake-maye-in-blowout-loss-to-lions/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-15T17:53:24+00:00"
+    },
+    {
+      "title": "How Maine’s two-decade old school consolidation effort continues to unravel",
+      "url": "https://www.sunjournal.com/2026/11/15/how-maines-two-decade-old-school-consolidation-effort-continues-to-unravel/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-15T16:26:49+00:00"
     },
     {
       "title": "Patriots quarterback Drake Maye leaves game against Lions with ankle injury",
