@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:45:58+00:00",
+  "updated": "2026-11-16T20:38:22+00:00",
   "splash": {
     "title": "Washington Sheriff Searching for Owners of Recovered Stolen Items After Two Suspects Arrested",
     "url": "https://www.themainewire.com/2026/11/washington-sheriff-searching-for-owners-of-recovered-stolen-items-after-two-suspects-arrested/",
@@ -51,6 +51,13 @@
       "published": "2026-11-16T14:39:31+00:00"
     },
     {
+      "title": "Where Maine’s members of Congress stand ahead of high-stakes votes on energy permitting",
+      "url": "https://www.sunjournal.com/2026/11/16/where-maines-members-of-congress-stand-ahead-of-high-stakes-votes-on-energy-permitting/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-16T20:25:36+00:00"
+    },
+    {
       "title": "The Race for the 2028 GOP Nomination Is Now Wide Open",
       "url": "https://www.realclearpolitics.com/2026/11/16/the_race_for_the_2028_gop_nomination_is_now_wide_open_717957.html",
       "source": "RealClearPolitics",
@@ -58,11 +65,32 @@
       "published": "2026-11-16T13:53:28+00:00"
     },
     {
+      "title": "Now We Know Who Really Deserves the Blame for GOP's Midterm Disaster",
+      "url": "https://redstate.com/terichristoph/2026/11/16/now-we-know-what-really-caused-the-gops-midterm-disaster-n2209474",
+      "source": "RedState",
+      "tag": "primary",
+      "published": "2026-11-16T20:07:57+00:00"
+    },
+    {
+      "title": "Once Bitter Rivals, Miller and Rubio Form Unlikely Alliance...",
+      "url": "https://feedpress.me/link/20202/17525477/once-bitter-rivals-stephen-miller-and-marco-rubio-form-unlikely-alliance-3aaa17c6",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-16T20:19:36+00:00"
+    },
+    {
       "title": "DeSantis Has Earned His Shot at White House in 2028",
       "url": "https://www.realclearpolitics.com/2026/11/16/desantis_has_earned_his_shot_at_white_house_in_2028_717948.html",
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-16T14:22:10+00:00"
+    },
+    {
+      "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+      "url": "https://www.bangordailynews.com/2026/11/16/nation/supreme-court-rebuffs-trump-administration-appeal-over-dei-funding-cuts/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-16T19:26:49+00:00"
     },
     {
       "title": "Missing Washington County girl found safe",
@@ -86,6 +114,13 @@
       "published": "2026-11-16T19:01:23+00:00"
     },
     {
+      "title": "Customers at major banks report difficulty accessing accounts online",
+      "url": "https://www.bangordailynews.com/2026/11/16/nation/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-16T18:43:38+00:00"
+    },
+    {
       "title": "Man allegedly fled from Brewer police during drug raid",
       "url": "https://www.bangordailynews.com/2026/11/16/bangor/bangor-police-courts/brewer-maine-chamberlain-street-drug-raid-christopher-beayon/",
       "source": "Bangor Daily News",
@@ -93,32 +128,25 @@
       "published": "2026-11-16T18:38:38+00:00"
     },
     {
-      "title": "Cruise lines and their passengers spent $35M in Maine last year",
-      "url": "https://www.bangordailynews.com/2026/11/16/business/maine-cruise-ships-tourism-economic-impact-survey-2025/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-16T18:25:22+00:00"
-    },
-    {
-      "title": "Drexel men’s basketball uses late free throws to hold off UMaine",
-      "url": "https://www.bangordailynews.com/2026/11/16/sports/college-basketball/orono-maine-umaine-men-basketball-loss-home-drexel/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-16T18:13:31+00:00"
-    },
-    {
-      "title": "Once Bitter Rivals, Miller and Rubio Form Unlikely Alliance...",
-      "url": "https://feedpress.me/link/20202/17525477/once-bitter-rivals-stephen-miller-and-marco-rubio-form-unlikely-alliance-3aaa17c6",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-16T17:46:36+00:00"
-    },
-    {
       "title": "'It's a Very Mitch McConnell Move': Ron Johnson Explains Why He Walked Out on Senate GOP Leadership Vote",
       "url": "https://www.breitbart.com/clips/2026/11/16/its-a-very-mitch-mcconnell-move-ron-johnson-explains-why-he-walked-out-on-senate-gop-leadership-vote/",
       "source": "Breitbart",
       "tag": "primary",
       "published": "2026-11-16T16:54:40+00:00"
+    },
+    {
+      "title": "Congress considers controversial permitting reform bill",
+      "url": "https://www.mainepublic.org/climate/2026-11-16/congress-considers-controversial-permitting-reform-bill",
+      "source": "Maine Public",
+      "tag": "",
+      "published": "2026-11-16T20:38:20+00:00"
+    },
+    {
+      "title": "The deer hunt doesn’t end when you take your shot",
+      "url": "https://www.centralmaine.com/2026/11/16/the-deer-hunt-doesnt-end-when-you-take-your-shot/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-16T20:30:00+00:00"
     },
     {
       "title": "Sweetser buys Androscoggin Bank building in Lewiston",
@@ -142,6 +170,20 @@
       "published": "2026-11-16T13:40:16+00:00"
     },
     {
+      "title": "Cooper Flagg’s love of PB&J makes young fans feel seen",
+      "url": "https://www.centralmaine.com/2026/11/16/cooper-flaggs-love-of-pbj-makes-young-fans-feel-seen/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-16T20:01:51+00:00"
+    },
+    {
+      "title": "York’s landmark honey locust tree gets a reprieve from the axe",
+      "url": "https://www.pressherald.com/2026/11/16/yorks-honey-locust-tree-will-live-on-at-town-hall-its-a-win-win/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-16T19:54:55+00:00"
+    },
+    {
       "title": "Patriots’ Drake Maye reportedly sidelined indefinitely with an ankle injury",
       "url": "https://www.centralmaine.com/2026/11/16/patriots-drake-maye-reportedly-sidelined-indefinitely-with-an-ankle-injury/",
       "source": "Central Maine",
@@ -156,6 +198,13 @@
       "published": "2026-11-16T17:49:18+00:00"
     },
     {
+      "title": "Route 196 in Topsham reopened after ‘suspicious package’ investigation",
+      "url": "https://www.sunjournal.com/2026/11/16/route-196-in-topsham-closed-due-to-suspicious-package-2/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-16T17:49:18+00:00"
+    },
+    {
       "title": "After Midterm Win, Dems Look Quickly & Eagerly Ahead to 2028",
       "url": "https://www.realclearpolitics.com/2026/11/16/after_midterm_win_dems_look_quickly_amp_eagerly_ahead_to_2028_717971.html",
       "source": "RealClearPolitics",
@@ -163,32 +212,11 @@
       "published": "2026-11-16T13:53:25+00:00"
     },
     {
-      "title": "Blame for Searsmont explosion seems misplaced | Letter",
-      "url": "https://www.centralmaine.com/2026/11/16/blame-for-searsmont-explosion-seems-misplaced-letter/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-16T18:30:00+00:00"
-    },
-    {
-      "title": "Does Maine law ban ‘free beer’ promotions? | Fact brief",
-      "url": "https://www.sunjournal.com/2026/11/16/does-maine-law-ban-free-beer-promotions-fact-brief/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
       "title": "Cruise lines and their passengers spent $35 million in Maine last year",
       "url": "https://www.mainepublic.org/business-and-economy/2026-11-16/cruise-lines-and-their-passengers-spent-35-million-in-maine-last-year",
       "source": "Maine Public",
       "tag": "",
       "published": "2026-11-16T18:02:54+00:00"
-    },
-    {
-      "title": "Norway’s Weary Club donates Main Street tree for firewood",
-      "url": "https://www.sunjournal.com/2026/11/16/norways-weary-club-donates-main-street-tree-for-firewood-2/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-16T16:35:11+00:00"
     },
     {
       "title": "Route 196 in Topsham reopened after closing due to ‘suspicious package’",
@@ -205,18 +233,11 @@
       "published": "2026-11-16T17:45:23+00:00"
     },
     {
-      "title": "Capitol advice for Sen.-elect Troy Jackson | Steve Collins",
-      "url": "https://www.centralmaine.com/2026/11/16/capitol-advice-for-sen-elect-troy-jackson-steve-collins/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-16T17:18:53+00:00"
-    },
-    {
-      "title": "Portland Jetport back to normal operations after nationwide stop",
-      "url": "https://www.pressherald.com/2026/11/16/portland-jetport-back-to-normal-operations-after-nationwide-stop/",
+      "title": "Does Maine law ban ‘free beer’ promotions? | Fact brief",
+      "url": "https://www.pressherald.com/2026/11/16/does-maine-law-ban-free-beer-promotions-fact-brief/",
       "source": "Portland Press Herald",
       "tag": "",
-      "published": "2026-11-16T15:22:54+00:00"
+      "published": "2026-11-16T17:00:00+00:00"
     },
     {
       "title": "Nolte: Joe Biden Presidential Library Raised Just $1.5 Million",
@@ -224,20 +245,6 @@
       "source": "Breitbart",
       "tag": "primary",
       "published": "2026-11-16T16:46:14+00:00"
-    },
-    {
-      "title": "Public hearing on Prime Healthcare Foundation scheduled for Nov. 20 in Auburn",
-      "url": "https://www.mainepublic.org/health/2026-11-16/for-monpublic-hearing-on-prime-healthcare-foundation-scheduled-for-november-20th-in-auburn",
-      "source": "Maine Public",
-      "tag": "",
-      "published": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "title": "Colom: If Republicans Don't Fix Healthcare '2028 Is Going to Be a Wipe Out'",
-      "url": "https://www.breitbart.com/clips/2026/11/15/colom-if-republicans-dont-fix-healthcare-2028-is-going-to-be-a-wipe-out/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-15T16:35:25+00:00"
     },
     {
       "title": "Belfast approves loan for CG Bikes to complete brownfield cleanup work",
