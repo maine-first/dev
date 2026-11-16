@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T16:29:27+00:00",
+  "updated": "2026-11-16T17:40:01+00:00",
   "splash": {
     "title": "Bangor Homeless Woman Arrested Following Conveniance Store Robbery",
     "url": "https://www.themainewire.com/2026/11/bangor-homeless-woman-arrested-following-conveniance-store-robbery/",
@@ -58,11 +58,25 @@
       "published": "2026-11-16T14:22:10+00:00"
     },
     {
+      "title": "‘Wizard of Oz on Ice’ is coming to Bangor’s Cross Insurance Center",
+      "url": "https://www.bangordailynews.com/2026/11/16/bangor/bangor-culture/bangor-maine-cross-insurance-center-wizard-of-oz-on-ice/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-16T16:58:34+00:00"
+    },
+    {
       "title": "Like Reagan, Trump Will Define the GOP for Decades",
       "url": "https://www.realclearpolitics.com/2026/11/16/like_reagan_trump_will_define_the_gop_for_decades_717884.html",
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-16T13:40:16+00:00"
+    },
+    {
+      "title": "Supreme Court declines to hear challenge to Maryland ‘sensitive places’ gun law",
+      "url": "https://www.bangordailynews.com/2026/11/16/nation/supreme-court-declines-to-hear-challenge-to-maryland-sensitive-places-gun-law/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-16T16:03:59+00:00"
     },
     {
       "title": "Judge sets March retrial for Massachusetts mother accused of killing her 3 children",
@@ -107,18 +121,25 @@
       "published": "2026-11-16T13:53:25+00:00"
     },
     {
-      "title": "Trump attributes nationwide grounding of planes to old technology, Biden administration",
-      "url": "https://www.bangordailynews.com/2026/11/16/nation/trump-attributes-nationwide-grounding-of-planes-to-old-technology-biden-administration/",
-      "source": "Bangor Daily News",
+      "title": "Does Maine law ban ‘free beer’ promotions? | Fact brief",
+      "url": "https://www.sunjournal.com/2026/11/16/does-maine-law-ban-free-beer-promotions-fact-brief/",
+      "source": "Sun Journal",
       "tag": "",
-      "published": "2026-11-16T15:04:40+00:00"
+      "published": "2026-11-16T17:00:00+00:00"
     },
     {
-      "title": "5 Rockland apartment buildings are going to foreclosure auction",
-      "url": "https://www.bangordailynews.com/2026/11/16/midcoast/midcoast-housing/rockland-maine-apartment-buildings-foreclosure-auction-december-8-2026/",
-      "source": "Bangor Daily News",
+      "title": "Norway’s Weary Club donates Main Street tree for firewood",
+      "url": "https://www.sunjournal.com/2026/11/16/norways-weary-club-donates-main-street-tree-for-firewood-2/",
+      "source": "Sun Journal",
       "tag": "",
-      "published": "2026-11-16T15:00:26+00:00"
+      "published": "2026-11-16T16:35:11+00:00"
+    },
+    {
+      "title": "Capitol advice for Sen.-elect Troy Jackson | Steve Collins",
+      "url": "https://www.centralmaine.com/2026/11/16/capitol-advice-for-sen-elect-troy-jackson-steve-collins/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-16T17:18:53+00:00"
     },
     {
       "title": "Portland Jetport back to normal operations after nationwide stop",
@@ -170,20 +191,6 @@
       "published": "2026-11-16T09:00:00+00:00"
     },
     {
-      "title": "Hannah Pingree wants a public option for Maine. Is it possible?",
-      "url": "https://www.sunjournal.com/2026/11/16/hannah-pingree-wants-a-public-option-for-maine-is-it-possible/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-16T09:00:00+00:00"
-    },
-    {
-      "title": "Salt & Stem to open in Rangeley with hot meals, fresh produce",
-      "url": "https://www.sunjournal.com/2026/11/16/salt-stem-to-open-in-rangeley-with-hot-meals-fresh-produce/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-16T09:00:00+00:00"
-    },
-    {
       "title": "Right whale population dipped again in 2025, new estimate shows",
       "url": "https://www.mainepublic.org/environment-and-outdoors/2026-11-16/right-whale-population-dipped-again-in-2025-new-estimate-shows",
       "source": "Maine Public",
@@ -191,22 +198,15 @@
       "published": "2026-11-16T10:15:00+00:00"
     },
     {
-      "title": "For a stronger Maine, we must invest in the next generation | Opinion",
-      "url": "https://www.centralmaine.com/2026/11/16/for-a-stronger-maine-we-must-invest-in-the-next-generation-opinion/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-16T09:08:00+00:00"
-    },
-    {
-      "title": "Maine should honor Sen. Muskie’s environmental legacy | Opinion",
-      "url": "https://www.centralmaine.com/2026/11/16/maine-should-honor-sen-muskies-environmental-legacy-opinion/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-16T09:02:00+00:00"
-    },
-    {
       "title": "13 Maine spots for thrifters seeking vintage with variety",
       "url": "https://www.pressherald.com/2026/11/16/13-maine-spots-for-thrifters-seeking-vintage-with-variety/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "title": "Hannah Pingree wants a public healthcare option for Maine. Is it possible?",
+      "url": "https://www.pressherald.com/2026/11/16/hannah-pingree-wants-a-public-option-for-maine-is-it-possible/",
       "source": "Portland Press Herald",
       "tag": "",
       "published": "2026-11-16T09:00:00+00:00"
@@ -219,25 +219,11 @@
       "published": "2026-11-15T16:35:25+00:00"
     },
     {
-      "title": "How Maine’s two-decade old school consolidation effort continues to unravel",
-      "url": "https://www.pressherald.com/2026/11/15/how-maines-two-decade-old-school-consolidation-effort-continues-to-unravel/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-15T16:26:49+00:00"
-    },
-    {
       "title": "Gavin Newsom Reveals When He’ll Decide on 2028 Presidential Run",
       "url": "https://www.breitbart.com/politics/2026/11/14/gavin-newsom-reveals-when-hell-decide-on-2028-presidential-run/",
       "source": "Breitbart",
       "tag": "primary",
       "published": "2026-11-15T00:10:08+00:00"
-    },
-    {
-      "title": "Washington County Commission to ask governor to appoint treasurer",
-      "url": "https://themainemonitor.org/washington-county-asking-governor-appoint-treasurer/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-13T17:22:33+00:00"
     },
     {
       "title": "Belfast approves loan for CG Bikes to complete brownfield cleanup work",
@@ -259,13 +245,6 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-13T19:45:06+00:00"
-    },
-    {
-      "title": "Skowhegan schedules December public forum on separating town clerk, treasurer roles",
-      "url": "https://themainemonitor.org/skowhegan-schedules-forum-separating-clerk-treasurer/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-13T17:28:54+00:00"
     }
   ]
 }
