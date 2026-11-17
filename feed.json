@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:42:48+00:00",
+  "updated": "2026-11-17T02:42:02+00:00",
   "splash": {
     "title": "Sanford Police Chief Eric Small, Who Once Ran for Pingree’s Congress Seat, Announces Retirement",
     "url": "https://www.themainewire.com/2026/11/sanford-police-chief-eric-small-who-once-ran-for-pingrees-congress-seat-announces-retirement/",
@@ -48,14 +48,14 @@
       "url": "https://feedpress.me/link/20202/17525477/once-bitter-rivals-stephen-miller-and-marco-rubio-form-unlikely-alliance-3aaa17c6",
       "source": "Drudge Report",
       "tag": "primary",
-      "published": "2026-11-17T00:01:36+00:00"
+      "published": "2026-11-17T02:28:36+00:00"
     },
     {
-      "title": "Vance vows: Iran not 'forever war'...",
+      "title": "Vance vows: Not 'forever war'...",
       "url": "https://feedpress.me/link/20202/17525840/6408461848112",
       "source": "Drudge Report",
       "tag": "primary",
-      "published": "2026-11-17T00:01:36+00:00"
+      "published": "2026-11-17T02:28:36+00:00"
     },
     {
       "title": "Where Maine’s members of Congress stand ahead of high-stakes votes on energy permitting",
@@ -86,6 +86,13 @@
       "published": "2026-11-16T23:16:47+00:00"
     },
     {
+      "title": "The Race for the 2028 GOP Nomination Is Now Wide Open",
+      "url": "https://www.realclearpolitics.com/2026/11/16/the_race_for_the_2028_gop_nomination_is_now_wide_open_717957.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-16T13:53:28+00:00"
+    },
+    {
       "title": "Northern Light Health lost $48M last year, documents show",
       "url": "https://www.bangordailynews.com/2026/11/16/bangor/bangor-business/northern-light-health-lost-48m-last-year/",
       "source": "Bangor Daily News",
@@ -98,13 +105,6 @@
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-16T22:46:14+00:00"
-    },
-    {
-      "title": "The Race for the 2028 GOP Nomination Is Now Wide Open",
-      "url": "https://www.realclearpolitics.com/2026/11/16/the_race_for_the_2028_gop_nomination_is_now_wide_open_717957.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-16T13:53:28+00:00"
     },
     {
       "title": "Cincinnati Zoo says Fiona the hippo is undergoing care after eating a hat that got into enclosure",
@@ -135,18 +135,18 @@
       "published": "2026-11-16T23:32:24+00:00"
     },
     {
-      "title": "Democrats secure super-majority in Maine Senate after recount win",
-      "url": "https://www.mainepublic.org/politics/2026-11-16/democrats-secure-super-majority-in-maine-senate-after-recount-win",
-      "source": "Maine Public",
-      "tag": "",
-      "published": "2026-11-17T00:37:33+00:00"
-    },
-    {
       "title": "Farmington teen charged with attempted murder, arson in Leeds Molotov cocktail case",
       "url": "https://www.sunjournal.com/2026/11/16/farmington-teen-charged-with-attempted-murder-arson-in-leeds-molotov-cocktail-case/",
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-16T23:21:03+00:00"
+    },
+    {
+      "title": "Democrats secure super-majority in Maine Senate after recount win",
+      "url": "https://www.mainepublic.org/politics/2026-11-16/democrats-secure-super-majority-in-maine-senate-after-recount-win",
+      "source": "Maine Public",
+      "tag": "",
+      "published": "2026-11-17T00:37:33+00:00"
     },
     {
       "title": "Now We Know Who Really Deserves the Blame for GOP's Midterm Disaster",
@@ -205,6 +205,13 @@
       "published": "2026-11-16T21:10:20+00:00"
     },
     {
+      "title": "Like Reagan, Trump Will Define the GOP for Decades",
+      "url": "https://www.realclearpolitics.com/2026/11/16/like_reagan_trump_will_define_the_gop_for_decades_717884.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-16T13:40:16+00:00"
+    },
+    {
       "title": "'It's a Very Mitch McConnell Move': Ron Johnson Explains Why He Walked Out on Senate GOP Leadership Vote",
       "url": "https://www.breitbart.com/clips/2026/11/16/its-a-very-mitch-mcconnell-move-ron-johnson-explains-why-he-walked-out-on-senate-gop-leadership-vote/",
       "source": "Breitbart",
@@ -219,18 +226,18 @@
       "published": "2026-11-16T21:51:03+00:00"
     },
     {
-      "title": "Like Reagan, Trump Will Define the GOP for Decades",
-      "url": "https://www.realclearpolitics.com/2026/11/16/like_reagan_trump_will_define_the_gop_for_decades_717884.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-16T13:40:16+00:00"
-    },
-    {
       "title": "Portland groups get $500K for student reading programs",
       "url": "https://www.pressherald.com/2026/11/16/portland-orgs-get-500k-for-student-reading-programs/",
       "source": "Portland Press Herald",
       "tag": "",
       "published": "2026-11-16T21:22:08+00:00"
+    },
+    {
+      "title": "After Midterm Win, Dems Look Quickly & Eagerly Ahead to 2028",
+      "url": "https://www.realclearpolitics.com/2026/11/16/after_midterm_win_dems_look_quickly_amp_eagerly_ahead_to_2028_717971.html",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-16T13:53:25+00:00"
     },
     {
       "title": "State report emphasizes need for mental health services for agricultural, fishing, and logging sectors",
@@ -245,13 +252,6 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-16T20:43:42+00:00"
-    },
-    {
-      "title": "After Midterm Win, Dems Look Quickly & Eagerly Ahead to 2028",
-      "url": "https://www.realclearpolitics.com/2026/11/16/after_midterm_win_dems_look_quickly_amp_eagerly_ahead_to_2028_717971.html",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-16T13:53:25+00:00"
     },
     {
       "title": "York’s landmark honey locust tree gets a reprieve from the axe",
