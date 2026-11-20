@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T10:27:21+00:00",
+  "updated": "2026-11-20T11:24:10+00:00",
   "splash": {
     "title": "'28 POLL: Rubio leads Vance, Ossoff surges to top for Dems...",
     "url": "https://feedpress.me/link/20202/17535767/92858122007",
@@ -30,6 +30,13 @@
       "published": "2026-11-19T18:09:22+00:00"
     },
     {
+      "title": "GOP 'Lame Duck' Congress Needs To Quack",
+      "url": "https://www.realclearpolitics.com/congress/links/gop-lame-duck-congress-needs-to-quack-2026-11-20",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-20T11:12:50+00:00"
+    },
+    {
       "title": "Penobscot County County Commissioners must justify their budget to residents",
       "url": "https://www.bangordailynews.com/2026/11/20/opinion/letters/penobscot-county-county-commissioners-must-justify-their-budget-to-residents-joam40zk0w/",
       "source": "Bangor Daily News",
@@ -56,6 +63,13 @@
       "source": "Drudge Report",
       "tag": "primary",
       "published": "2026-11-20T10:01:36+00:00"
+    },
+    {
+      "title": "Mamdani sets plan to close NYC’s notorious Rikers Island jail",
+      "url": "https://www.bangordailynews.com/2026/11/20/nation/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-20T10:01:15+00:00"
     },
     {
       "title": "China Caught Copying American AI’s Homework, Hundreds Of Documents Show",
@@ -128,7 +142,7 @@
       "published": "2026-11-20T09:39:00+00:00"
     },
     {
-      "title": "Bangor cancels school bus routes as Maine’s driver shortage goes uncounted",
+      "title": "Bangor cancels school bus routes as Maine grapples with driver shortage",
       "url": "https://www.bangordailynews.com/2026/11/20/bangor/bangor-education/maine-school-bus-driver-shortage-joam40zk0w/",
       "source": "Bangor Daily News",
       "tag": "",
@@ -144,13 +158,6 @@
     {
       "title": "Letter: If you didn’t vote, don’t complain about the outcome",
       "url": "https://www.bangordailynews.com/2026/11/20/opinion/letters/letter-if-you-didnt-vote-dont-complain-about-the-outcome-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-20T06:00:00+00:00"
-    },
-    {
-      "title": "Is this deer going to be the biggest buck shot in Maine this year?",
-      "url": "https://www.bangordailynews.com/2026/11/20/outdoors/hunting/biggest-buck-shot-in-maine-joam40zk0w/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-20T06:00:00+00:00"
@@ -182,13 +189,6 @@
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-19T19:51:12+00:00"
-    },
-    {
-      "title": "Voters Rejected the GOP, Now Come the Consequences",
-      "url": "https://www.realclearpolitics.com/house-races/links/voters-rejected-the-gop-now-come-the-consequences-2026-11-19",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-19T19:50:51+00:00"
     },
     {
       "title": "JD Vance Rebukes Republican Gov. Kevin Stitt Over 'Amnesty' Plan to Import Workers for CEOs",
@@ -254,18 +254,18 @@
       "published": "2026-11-19T22:07:40+00:00"
     },
     {
-      "title": "Republican Nick Begich Wins by 2.7 Percent After Alaska’s Ballots Get a Second (and Third) Look",
-      "url": "https://redstate.com/wardclark/2026/11/19/republican-nick-begich-wins-by-27-points-after-alaskas-ballots-get-a-second-look-n2209601",
-      "source": "RedState",
-      "tag": "primary",
-      "published": "2026-11-19T23:14:10+00:00"
-    },
-    {
       "title": "RSU 9 directors approve soft spending freeze",
       "url": "https://themainemonitor.org/rsu9-approves-soft-spending-freeze/",
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-18T20:41:42+00:00"
+    },
+    {
+      "title": "Republican Nick Begich Wins by 2.7 Percent After Alaska’s Ballots Get a Second (and Third) Look",
+      "url": "https://redstate.com/wardclark/2026/11/19/republican-nick-begich-wins-by-27-points-after-alaskas-ballots-get-a-second-look-n2209601",
+      "source": "RedState",
+      "tag": "primary",
+      "published": "2026-11-19T23:14:10+00:00"
     },
     {
       "title": "Lincolnville Select Board asked to consider measures to ease harbor congestion, moorage enforcement",
