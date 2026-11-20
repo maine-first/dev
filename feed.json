@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T04:47:19+00:00",
+  "updated": "2026-11-20T05:50:01+00:00",
   "splash": {
     "title": "Hackers Hit Company Building Blue State’s Offshore Wind Farm As Energy Cyberattacks Pile Up",
     "url": "https://www.themainewire.com/2026/11/hackers-hit-company-building-blue-states-offshore-wind-farm-as-energy-cyberattacks-pile-up/",
@@ -44,13 +44,6 @@
       "published": "2026-11-19T19:24:18+00:00"
     },
     {
-      "title": "GOP 'Lame Duck' Congress Needs To Quack",
-      "url": "https://www.realclearpolitics.com/congress/links/gop-lame-duck-congress-needs-to-quack-2026-11-19",
-      "source": "RealClearPolitics",
-      "tag": "poll",
-      "published": "2026-11-20T03:35:08+00:00"
-    },
-    {
       "title": "Former property owner sues Houlton for seizing his home over unpaid taxes",
       "url": "https://www.bangordailynews.com/2026/11/19/aroostook/aroostook-police-courts/houlton-lawsuit-property-seized-for-unpaid-taxes/",
       "source": "Bangor Daily News",
@@ -58,11 +51,25 @@
       "published": "2026-11-19T23:10:00+00:00"
     },
     {
+      "title": "GOP 'Lame Duck' Congress Needs To Quack",
+      "url": "https://www.realclearpolitics.com/congress/links/gop-lame-duck-congress-needs-to-quack-2026-11-19",
+      "source": "RealClearPolitics",
+      "tag": "poll",
+      "published": "2026-11-20T03:35:08+00:00"
+    },
+    {
       "title": "Anson Man Arrested after Fleeing Bangor OUI Crash",
       "url": "https://www.themainewire.com/2026/11/anson-man-arrested-after-fleeing-bangor-oui-crash/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-19T18:10:26+00:00"
+    },
+    {
+      "title": "(Not) up in the air: Travelers’ trepidations spike as Thanksgiving nears and tech hiccups abound",
+      "url": "https://www.bangordailynews.com/2026/11/20/nation/not-up-in-the-air-travelers-trepidations-spike-as-thanksgiving-nears-and-tech-hiccups-abound/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-20T05:06:39+00:00"
     },
     {
       "title": "Marco more seriously weighing 2028 run, allies say...",
@@ -128,11 +135,11 @@
       "published": "2026-11-19T21:46:38+00:00"
     },
     {
-      "title": "Trump administration urges judge to lift order blocking Kennedy Center’s two-year closure",
-      "url": "https://www.bangordailynews.com/2026/11/19/nation/trump-administration-urges-judge-to-lift-order-blocking-kennedy-centers-two-year-closure/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-19T21:45:39+00:00"
+      "title": "JD Vance Rebukes Republican Gov. Kevin Stitt Over 'Amnesty' Plan to Import Workers for CEOs",
+      "url": "https://www.breitbart.com/economy/2026/11/19/jd-vance-rebukes-republican-gov-kevin-stitt-over-amnesty-plan-to-import-workers-for-ceos/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-19T22:09:58+00:00"
     },
     {
       "title": "UMaine women’s basketball tops VCU in overtime",
@@ -140,13 +147,6 @@
       "source": "Central Maine",
       "tag": "",
       "published": "2026-11-20T01:16:45+00:00"
-    },
-    {
-      "title": "JD Vance Rebukes Republican Gov. Kevin Stitt Over 'Amnesty' Plan to Import Workers for CEOs",
-      "url": "https://www.breitbart.com/economy/2026/11/19/jd-vance-rebukes-republican-gov-kevin-stitt-over-amnesty-plan-to-import-workers-for-ceos/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-19T22:09:58+00:00"
     },
     {
       "title": "Maine businesses roll with tech outage impacts",
@@ -240,18 +240,18 @@
       "published": "2026-11-19T17:18:58+00:00"
     },
     {
-      "title": "Belfast City Council passes a 180-day moratorium on mobile home lot rent increases",
-      "url": "https://themainemonitor.org/belfast-passes-mobile-home-rent-moratorium/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-19T17:03:07+00:00"
-    },
-    {
       "title": "RSU 9 directors approve soft spending freeze",
       "url": "https://themainemonitor.org/rsu9-approves-soft-spending-freeze/",
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-18T20:41:42+00:00"
+    },
+    {
+      "title": "Belfast City Council passes a 180-day moratorium on mobile home lot rent increases",
+      "url": "https://themainemonitor.org/belfast-passes-mobile-home-rent-moratorium/",
+      "source": "The Maine Monitor",
+      "tag": "",
+      "published": "2026-11-19T17:03:07+00:00"
     },
     {
       "title": "Maine compost site tainted with PFAS is months overdue for closure",
