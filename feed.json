@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-23T19:51:51+00:00",
+  "updated": "2026-11-23T20:38:30+00:00",
   "splash": {
-    "title": "‘I Wish They Didn’t Work’: How $127 Million in Negative Ads Landed in Maine’s U.S. Senate Race",
-    "url": "https://www.themainewire.com/2026/11/i-wish-they-didnt-work-how-127-million-in-negative-ads-landed-in-maines-u-s-senate-race/",
-    "source": "The Maine Wire",
-    "tag": "",
-    "published": "2026-11-23T19:09:57+00:00"
+    "title": "DNC Says 2028 Presidential Candidates Must 'Denounce Dark Money and Super PAC Spending' in Primary",
+    "url": "https://www.breitbart.com/politics/2026/11/23/dnc-says-2028-presidential-candidates-must-denounce-dark-money-and-super-pac-spending-in-primary/",
+    "source": "Breitbart",
+    "tag": "primary",
+    "published": "2026-11-23T19:07:16+00:00"
   },
   "items": [
+    {
+      "title": "‘I Wish They Didn’t Work’: How $127 Million in Negative Ads Landed in Maine’s U.S. Senate Race",
+      "url": "https://www.themainewire.com/2026/11/i-wish-they-didnt-work-how-127-million-in-negative-ads-landed-in-maines-u-s-senate-race/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-23T19:09:57+00:00"
+    },
     {
       "title": "Fetherston: Three Police Reports and a Withheld Week of Video. Lewiston Is Still Waiting for Answers.",
       "url": "https://www.themainewire.com/2026/11/fetherston-three-police-reports-and-a-withheld-week-of-video-lewiston-is-still-waiting-for-answers/",
@@ -51,18 +58,67 @@
       "published": "2026-11-23T18:00:16+00:00"
     },
     {
+      "title": "Rumford residents to vote on $2.5 million in cuts to the current budget",
+      "url": "https://themainemonitor.org/rumford-to-vote-budget-cuts/",
+      "source": "The Maine Monitor",
+      "tag": "",
+      "published": "2026-11-23T20:06:34+00:00"
+    },
+    {
+      "title": "Dems to open primary debates in June...",
+      "url": "https://feedpress.me/link/20202/17538513/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T20:34:36+00:00"
+    },
+    {
       "title": "Fight to chair GOP tests President's clout...",
       "url": "https://feedpress.me/link/20202/17538251/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout",
       "source": "Drudge Report",
       "tag": "primary",
-      "published": "2026-11-23T17:55:36+00:00"
+      "published": "2026-11-23T20:34:36+00:00"
     },
     {
-      "title": "UMaine Extension offers webinar on integrated pest management for greenhouses",
-      "url": "https://www.bangordailynews.com/2026/11/23/bdn-maine/umaine-extension-offers-webinar-on-integrated-pest-management-for-greenhouses/",
+      "title": "Ossoff expanding coalition fuels 2028 presidential buzz...",
+      "url": "https://feedpress.me/link/20202/17538249/jon-ossoff-2028-presidential-speculation-after-georgia-win",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T20:34:36+00:00"
+    },
+    {
+      "title": "DeSantis quietly working on book...",
+      "url": "https://feedpress.me/link/20202/17538250/scoop-desantis-secret-book-project-fuels-2028-speculation",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T20:34:36+00:00"
+    },
+    {
+      "title": "Police identify motorcyclist who died in Alton crash",
+      "url": "https://www.bangordailynews.com/2026/11/23/penobscot/penobscot-police-courts/charles-willette-motorcyclist-died-alton-crash/",
       "source": "Bangor Daily News",
       "tag": "",
-      "published": "2026-11-23T18:50:40+00:00"
+      "published": "2026-11-23T20:31:02+00:00"
+    },
+    {
+      "title": "Bangor commercial building sold for $1.5M",
+      "url": "https://www.bangordailynews.com/2026/11/23/bangor/bangor-business/38-school-st-bangor-sold-core-fedcap/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T20:10:19+00:00"
+    },
+    {
+      "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+      "url": "https://www.bangordailynews.com/2026/11/23/nation/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T20:02:06+00:00"
+    },
+    {
+      "title": "Hippo Cove at Cincinnati Zoo reopens with protective measures following beloved hippo Fiona’s death",
+      "url": "https://www.bangordailynews.com/2026/11/23/nation/hippo-cove-at-cincinnati-zoo-reopens-with-protective-measures-following-beloved-hippo-fionas-death/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T19:35:37+00:00"
     },
     {
       "title": "GOP Should Take 'TrumpCare' Proposals Seriously",
@@ -72,25 +128,25 @@
       "published": "2026-11-23T16:07:52+00:00"
     },
     {
+      "title": "UMaine Extension offers webinar on integrated pest management for greenhouses",
+      "url": "https://www.bangordailynews.com/2026/11/23/bdn-maine/umaine-extension-offers-webinar-on-integrated-pest-management-for-greenhouses/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T18:50:40+00:00"
+    },
+    {
+      "title": "Jay weighs options for solar rules after moratorium vote",
+      "url": "https://www.sunjournal.com/2026/11/23/jay-weighs-options-for-solar-rules-after-moratorium-vote/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-23T20:29:24+00:00"
+    },
+    {
       "title": "Rockland library closes indefinitely due to lack of heat in building",
       "url": "https://www.bangordailynews.com/2026/11/23/midcoast/midcoast-government/rockland-library-closes-indefinitely-due-to-lack-of-heat-in-building/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-23T18:38:53+00:00"
-    },
-    {
-      "title": "Maine homeless shelter CEO arrested for alleged witness tampering",
-      "url": "https://www.bangordailynews.com/2026/11/23/central-maine/central-maine-police-courts/waterville-maine-mid-maine-homeless-shelter-katie-spencer-white-arrest/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-23T18:29:50+00:00"
-    },
-    {
-      "title": "Markathon 18: The Final Season returns to WCYY to benefit The Center for Grieving Children",
-      "url": "https://www.bangordailynews.com/2026/11/23/bdn-maine/markathon-18-the-final-season-returns-to-wcyy-to-benefit-the-center-for-grieving-children/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-23T18:29:02+00:00"
     },
     {
       "title": "NC Congressman Levels Hakeem Jeffries and Sets Tone for GOP Messaging Headed Into 2027",
@@ -100,32 +156,18 @@
       "published": "2026-11-23T17:48:48+00:00"
     },
     {
-      "title": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval",
-      "url": "https://www.bangordailynews.com/2026/11/23/nation/trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval/",
-      "source": "Bangor Daily News",
+      "title": "Muzzleloader season another opportunity to get your deer, so be prepared",
+      "url": "https://www.centralmaine.com/2026/11/23/muzzleloader-season-another-opportunity-to-get-your-deer-so-be-prepared/",
+      "source": "Central Maine",
       "tag": "",
-      "published": "2026-11-23T18:24:36+00:00"
+      "published": "2026-11-23T20:00:00+00:00"
     },
     {
-      "title": "Two central Ohio bus drivers killed, nine others injured after head-on crash",
-      "url": "https://www.bangordailynews.com/2026/11/23/nation/two-central-ohio-bus-drivers-killed-nine-others-injured-after-head-on-crash/",
-      "source": "Bangor Daily News",
+      "title": "Fairfield selects members for new Charter Review Committee",
+      "url": "https://themainemonitor.org/fairfield-selects-members-charter-review-committee/",
+      "source": "The Maine Monitor",
       "tag": "",
-      "published": "2026-11-23T18:19:11+00:00"
-    },
-    {
-      "title": "Ossoff expanding coalition fuels 2028 presidential buzz...",
-      "url": "https://feedpress.me/link/20202/17538249/jon-ossoff-2028-presidential-speculation-after-georgia-win",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T17:55:36+00:00"
-    },
-    {
-      "title": "DeSantis quietly working on book...",
-      "url": "https://feedpress.me/link/20202/17538250/scoop-desantis-secret-book-project-fuels-2028-speculation",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T17:55:36+00:00"
+      "published": "2026-11-23T19:59:29+00:00"
     },
     {
       "title": "Norway town manager says assertions of hundreds of abatement requests are blatantly “false”",
@@ -135,13 +177,6 @@
       "published": "2026-11-23T19:50:59+00:00"
     },
     {
-      "title": "Monmouth weighs new affordable housing district in light of new development on Route 202",
-      "url": "https://themainemonitor.org/monmouth-weighs-new-affordable-housing-district/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-23T19:15:19+00:00"
-    },
-    {
       "title": "Speaker Johnson Begging GOP To Show Up Is Hilarious",
       "url": "https://www.realclearpolitics.com/congress/links/speaker-johnson-begging-gop-to-show-up-is-hilarious-2026-11-23",
       "source": "RealClearPolitics",
@@ -149,11 +184,11 @@
       "published": "2026-11-23T12:38:09+00:00"
     },
     {
-      "title": "No, Paul LePage does not care about ‘common ground’ | Steve Collins",
-      "url": "https://www.centralmaine.com/2026/11/23/no-paul-lepage-does-not-care-about-common-ground-steve-collins/",
-      "source": "Central Maine",
+      "title": "Monmouth weighs new affordable housing district in light of new development on Route 202",
+      "url": "https://themainemonitor.org/monmouth-weighs-new-affordable-housing-district/",
+      "source": "The Maine Monitor",
       "tag": "",
-      "published": "2026-11-23T19:00:00+00:00"
+      "published": "2026-11-23T19:15:19+00:00"
     },
     {
       "title": "Is your retirement fund boosting the state budget?",
@@ -161,6 +196,13 @@
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-23T09:00:00+00:00"
+    },
+    {
+      "title": "No, Paul LePage does not care about ‘common ground’ | Steve Collins",
+      "url": "https://www.centralmaine.com/2026/11/23/no-paul-lepage-does-not-care-about-common-ground-steve-collins/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-23T19:00:00+00:00"
     },
     {
       "title": "Ted Cruz Has a Warning for Texas Democrats: Don't Get Too Comfortable",
@@ -198,25 +240,11 @@
       "published": "2026-11-23T15:54:36+00:00"
     },
     {
-      "title": "This proud dad of lesbian just defeated powerful Republican congresswoman...",
-      "url": "https://feedpress.me/link/20202/17538259/this-proud-dad-lesbian-just-defeated-powerful-gop-congresswoman",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T17:55:36+00:00"
-    },
-    {
       "title": "Jackson Laboratory collaborates on rare genetic neurodevelopmental research",
       "url": "https://www.mainepublic.org/health/2026-11-23/jackson-laboratory-collaborates-on-rare-genetic-neurodevelopmental-research",
       "source": "Maine Public",
       "tag": "",
       "published": "2026-11-23T16:13:18+00:00"
-    },
-    {
-      "title": "Holiday festivals, concerts among 5 things to do in central Maine this week",
-      "url": "https://www.centralmaine.com/2026/11/23/holiday-festivals-concerts-among-5-things-to-do-in-central-maine-this-week/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-23T16:04:49+00:00"
     },
     {
       "title": "6 Maine events include Beatles Night and Down East Ski Sale",
@@ -240,13 +268,6 @@
       "published": "2026-11-23T15:30:00+00:00"
     },
     {
-      "title": "Maine electric utility regulator may consider CMP whistleblower complaint in rate case",
-      "url": "https://themainemonitor.org/regulator-considering-cmp-whistleblower-complaint-rate-case/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-20T20:13:16+00:00"
-    },
-    {
       "title": "Maine hunters stock soup kitchens and food pantries with donated game meat",
       "url": "https://www.sunjournal.com/2026/11/23/maine-hunters-stock-soup-kitchens-and-food-pantries-with-donated-game-meat/",
       "source": "Sun Journal",
@@ -268,13 +289,6 @@
       "published": "2026-11-23T10:00:00+00:00"
     },
     {
-      "title": "Reader searching for peach blossoms, raspberry-filled candies | Sun Spots",
-      "url": "https://www.sunjournal.com/2026/11/22/reader-searching-for-peach-blossoms-raspberry-filled-candies-sun-spots/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-23T01:35:07+00:00"
-    },
-    {
       "title": "Portland community hopes Franklin Street redesign will undo wrongs of the past",
       "url": "https://www.mainepublic.org/business-and-economy/2026-11-20/portland-community-hopes-franklin-street-redesign-will-undo-wrongs-of-the-past",
       "source": "Maine Public",
@@ -287,13 +301,6 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-20T20:44:25+00:00"
-    },
-    {
-      "title": "Machias Select Board considers reducing number of medical cannabis licenses allowed in town ordinance",
-      "url": "https://themainemonitor.org/machias-considers-reducing-medical-cannabis-licenses/",
-      "source": "The Maine Monitor",
-      "tag": "",
-      "published": "2026-11-20T20:36:16+00:00"
     }
   ]
 }
