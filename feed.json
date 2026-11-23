@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-23T10:00:07+00:00",
+  "updated": "2026-11-23T11:00:17+00:00",
   "splash": {
-    "title": "Is your retirement fund boosting the state budget?",
-    "url": "https://www.sunjournal.com/2026/11/23/is-your-retirement-fund-boosting-the-state-budget/",
-    "source": "Sun Journal",
+    "title": "MaineHousing Awards Combined $12.7 Million in State and Federal Tax Credits to Support 186 Affordable Units",
+    "url": "https://www.themainewire.com/2026/11/mainehousing-awards-combined-12-7-million-in-state-and-federal-tax-credits-to-support-186-affordable-units/",
+    "source": "The Maine Wire",
     "tag": "",
-    "published": "2026-11-23T09:00:00+00:00"
+    "published": "2026-11-22T13:46:53+00:00"
   },
   "items": [
+    {
+      "title": "Is your retirement fund boosting the state budget?",
+      "url": "https://www.sunjournal.com/2026/11/23/is-your-retirement-fund-boosting-the-state-budget/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-23T09:00:00+00:00"
+    },
     {
       "title": "MaineCare still needs somebody watching the books | Opinion",
       "url": "https://www.centralmaine.com/2026/11/23/mainecare-still-needs-somebody-watching-the-books-opinion/",
@@ -16,11 +23,11 @@
       "published": "2026-11-23T09:55:00+00:00"
     },
     {
-      "title": "MaineHousing Awards Combined $12.7 Million in State and Federal Tax Credits to Support 186 Affordable Units",
-      "url": "https://www.themainewire.com/2026/11/mainehousing-awards-combined-12-7-million-in-state-and-federal-tax-credits-to-support-186-affordable-units/",
+      "title": "Sheline Pours Thousands Into Lewiston Mayoral Campaign as Gun Violence, Homelessness and Leadership Questions Persist",
+      "url": "https://www.themainewire.com/2026/11/sheline-pours-thousands-into-lewiston-mayoral-campaign-as-gun-violence-homelessness-and-leadership-questions-persist/",
       "source": "The Maine Wire",
       "tag": "",
-      "published": "2026-11-22T13:46:53+00:00"
+      "published": "2026-11-22T13:42:09+00:00"
     },
     {
       "title": "Maine hunters stock soup kitchens and food pantries with donated game meat",
@@ -28,6 +35,13 @@
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-23T09:00:00+00:00"
+    },
+    {
+      "title": "Trump’s Drug Czar Sara Carter to Discuss Maine’s Drug Crisis With The Maine Wire Monday",
+      "url": "https://www.themainewire.com/2026/11/trumps-drug-czar-sara-carter-to-discuss-maines-drug-crisis-with-the-maine-wire-monday/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-22T13:27:39+00:00"
     },
     {
       "title": "The lost education of a Maine boy held down and isolated 200 times",
@@ -42,20 +56,6 @@
       "source": "Central Maine",
       "tag": "",
       "published": "2026-11-23T09:47:00+00:00"
-    },
-    {
-      "title": "Sheline Pours Thousands Into Lewiston Mayoral Campaign as Gun Violence, Homelessness and Leadership Questions Persist",
-      "url": "https://www.themainewire.com/2026/11/sheline-pours-thousands-into-lewiston-mayoral-campaign-as-gun-violence-homelessness-and-leadership-questions-persist/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-22T13:42:09+00:00"
-    },
-    {
-      "title": "Trump’s Drug Czar Sara Carter to Discuss Maine’s Drug Crisis With The Maine Wire Monday",
-      "url": "https://www.themainewire.com/2026/11/trumps-drug-czar-sara-carter-to-discuss-maines-drug-crisis-with-the-maine-wire-monday/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-22T13:27:39+00:00"
     },
     {
       "title": "How Susan Collins will wrap up her final weeks in Washington",
@@ -177,6 +177,13 @@
       "published": "2026-11-23T00:30:11+00:00"
     },
     {
+      "title": "Raskin on 2028 Presidential Run: 'If My Party Wanted Me to Do That, I Would'",
+      "url": "https://www.breitbart.com/clips/2026/11/22/raskin-on-2028-presidential-run-if-my-party-wanted-me-to-do-that-i-would/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-22T16:04:24+00:00"
+    },
+    {
       "title": "After nearly 3 days, Woodstock fire extinguished",
       "url": "https://www.sunjournal.com/2026/11/22/woodstock-fire-extinguished/",
       "source": "Sun Journal",
@@ -191,25 +198,11 @@
       "published": "2026-11-22T21:38:34+00:00"
     },
     {
-      "title": "Raskin on 2028 Presidential Run: 'If My Party Wanted Me to Do That, I Would'",
-      "url": "https://www.breitbart.com/clips/2026/11/22/raskin-on-2028-presidential-run-if-my-party-wanted-me-to-do-that-i-would/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-22T16:04:24+00:00"
-    },
-    {
       "title": "South Portland city buildings to reopen after cyberattack",
       "url": "https://www.pressherald.com/2026/11/22/south-portland-city-buildings-to-reopen-after-cyberattack/",
       "source": "Portland Press Herald",
       "tag": "",
       "published": "2026-11-22T20:05:52+00:00"
-    },
-    {
-      "title": "Dozen animals rescued in South Berwick house fire",
-      "url": "https://www.pressherald.com/2026/11/22/dozen-animals-rescued-in-south-berwick-house-fire/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-22T17:43:30+00:00"
     },
     {
       "title": "Licking batteries, house rent blues and the proper spelling of ‘Zayre’s’ | Column",
@@ -222,13 +215,6 @@
       "title": "No Turkey? No problem! A western Maine guide to vegan Thanksgiving",
       "url": "https://www.sunjournal.com/2026/11/22/no-turkey-no-problem-a-western-maine-guide-to-vegan-thanksgiving/",
       "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-22T09:00:00+00:00"
-    },
-    {
-      "title": "Maine Democrats campaigned on affordability. Can they deliver?",
-      "url": "https://www.pressherald.com/2026/11/22/maine-democrats-campaigned-on-affordability-can-they-deliver/",
-      "source": "Portland Press Herald",
       "tag": "",
       "published": "2026-11-22T09:00:00+00:00"
     },
