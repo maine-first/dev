@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-23T14:50:05+00:00",
+  "updated": "2026-11-23T15:51:57+00:00",
   "splash": {
-    "title": "South Portland City Hall Is Reopening After A Cyberattack, But Some Systems Are Still Offline.",
-    "url": "https://www.themainewire.com/2026/11/south-portland-city-hall-is-reopening-after-a-cyberattack-but-some-systems-are-still-offline/",
+    "title": "Fetherston: Ogunquit Fined a Family Over Tin Roosters. Now It Has to Answer in Federal Court",
+    "url": "https://www.themainewire.com/2026/11/fetherston-ogunquit-fined-a-family-over-tin-roosters-now-it-has-to-answer-in-federal-court/",
     "source": "The Maine Wire",
     "tag": "",
-    "published": "2026-11-23T13:52:23+00:00"
+    "published": "2026-11-23T15:16:51+00:00"
   },
   "items": [
+    {
+      "title": "South Portland City Hall Is Reopening After A Cyberattack, But Some Systems Are Still Offline.",
+      "url": "https://www.themainewire.com/2026/11/south-portland-city-hall-is-reopening-after-a-cyberattack-but-some-systems-are-still-offline/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-23T13:52:23+00:00"
+    },
     {
       "title": "Angus King Applauds Senate’s Passage of Bipartisan Permitting Reform Bill",
       "url": "https://www.themainewire.com/2026/11/angus-king-applauds-senates-passage-of-bipartisan-permitting-reform-bill/",
@@ -21,6 +28,27 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-22T13:46:53+00:00"
+    },
+    {
+      "title": "Fight to chair GOP tests President's clout...",
+      "url": "https://feedpress.me/link/20202/17538251/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T15:37:36+00:00"
+    },
+    {
+      "title": "Ossoff expanding coalition fuels 2028 presidential buzz...",
+      "url": "https://feedpress.me/link/20202/17538249/jon-ossoff-2028-presidential-speculation-after-georgia-win",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T15:37:36+00:00"
+    },
+    {
+      "title": "DeSantis quietly working on book...",
+      "url": "https://feedpress.me/link/20202/17538250/scoop-desantis-secret-book-project-fuels-2028-speculation",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T15:37:36+00:00"
     },
     {
       "title": "Speaker Johnson Begging GOP To Show Up Is Hilarious",
@@ -37,25 +65,18 @@
       "published": "2026-11-23T12:38:09+00:00"
     },
     {
+      "title": "Ted Cruz Has a Warning for Texas Democrats: Don't Get Too Comfortable",
+      "url": "https://redstate.com/ben-smith/2026/11/23/ted-cruz-isnt-buying-the-blue-texas-narrative-and-democrats-may-be-getting-ahead-of-themselves-n2209699",
+      "source": "RedState",
+      "tag": "primary",
+      "published": "2026-11-23T15:35:28+00:00"
+    },
+    {
       "title": "Nvidia board unanimously reinstates Jensen Huang as CEO",
       "url": "https://www.bangordailynews.com/2026/11/23/nation/nvidia-jensen-huang-ceo-reinstated/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-23T14:47:40+00:00"
-    },
-    {
-      "title": "Fight to chair GOP tests President's clout...",
-      "url": "https://feedpress.me/link/20202/17538251/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T13:31:36+00:00"
-    },
-    {
-      "title": "Maine will delay implementation of Medicaid work requirements",
-      "url": "https://www.bangordailynews.com/2026/11/23/state/state-health/maine-medicaid-work-requirements-delay/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-23T14:02:25+00:00"
     },
     {
       "title": "Is your retirement fund boosting the state budget?",
@@ -65,25 +86,18 @@
       "published": "2026-11-23T09:00:00+00:00"
     },
     {
+      "title": "Maine will delay implementation of Medicaid work requirements",
+      "url": "https://www.bangordailynews.com/2026/11/23/state/state-health/maine-medicaid-work-requirements-delay/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T14:02:25+00:00"
+    },
+    {
       "title": "Judge refuses to release affidavit in Maine paddleboader’s slaying",
       "url": "https://www.bangordailynews.com/2026/11/23/midcoast/midcoast-police-courts/union-maine-crawford-pond-homicide-deven-young-affidavit-sealed/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-23T13:44:38+00:00"
-    },
-    {
-      "title": "Ossoff expanding coalition fuels 2028 presidential buzz...",
-      "url": "https://feedpress.me/link/20202/17538249/jon-ossoff-2028-presidential-speculation-after-georgia-win",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T13:31:36+00:00"
-    },
-    {
-      "title": "DeSantis quietly working on book...",
-      "url": "https://feedpress.me/link/20202/17538250/scoop-desantis-secret-book-project-fuels-2028-speculation",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T13:31:36+00:00"
     },
     {
       "title": "MaineCare still needs somebody watching the books | Opinion",
@@ -107,11 +121,46 @@
       "published": "2026-11-23T12:49:35+00:00"
     },
     {
+      "title": "Make 21 words using the letters T-U-R-K-E-Y-S",
+      "url": "https://www.centralmaine.com/2026/11/23/make-21-words-using-the-letters-t-u-r-k-e-y-s/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-23T15:37:57+00:00"
+    },
+    {
+      "title": "Use clues to find 20 Thanksgiving words",
+      "url": "https://www.centralmaine.com/2026/11/23/use-clues-to-find-20-thanksgiving-words/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-23T15:36:00+00:00"
+    },
+    {
+      "title": "In Missouri, this couple will be the last in the family to farm the land",
+      "url": "https://www.bangordailynews.com/2026/11/23/nation/in-missouri-this-couple-will-be-the-last-in-the-family-to-farm-the-land/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-23T12:18:31+00:00"
+    },
+    {
+      "title": "Jennifer Porter sparkles with jazzy takes on ‘Jingle Bells’ and ‘Merry Christmas Baby’",
+      "url": "https://www.pressherald.com/2026/11/23/jennifer-porter-sparkles-with-jazzy-takes-on-jingle-bells-and-merry-christmas-baby/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-23T15:30:00+00:00"
+    },
+    {
       "title": "17 Maine holiday events to light up your season",
       "url": "https://www.sunjournal.com/2026/11/23/17-maine-holiday-events-to-light-up-your-season/",
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-23T13:59:00+00:00"
+    },
+    {
+      "title": "This proud dad of lesbian just defeated powerful Republican congresswoman...",
+      "url": "https://feedpress.me/link/20202/17538259/this-proud-dad-lesbian-just-defeated-powerful-gop-congresswoman",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T15:37:36+00:00"
     },
     {
       "title": "Sheline Pours Thousands Into Lewiston Mayoral Campaign as Gun Violence, Homelessness and Leadership Questions Persist",
@@ -135,13 +184,6 @@
       "published": "2026-11-23T12:55:42+00:00"
     },
     {
-      "title": "This proud dad of lesbian just defeated powerful Republican congresswoman...",
-      "url": "https://feedpress.me/link/20202/17538259/this-proud-dad-lesbian-just-defeated-powerful-gop-congresswoman",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T13:31:36+00:00"
-    },
-    {
       "title": "Look back at Thanksgiving in Maine in the 1940s",
       "url": "https://www.pressherald.com/2026/11/23/look-back-at-thanksgiving-in-maine-in-the-1940s/",
       "source": "Portland Press Herald",
@@ -156,13 +198,6 @@
       "published": "2026-11-23T09:00:00+00:00"
     },
     {
-      "title": "How Susan Collins will wrap up her final weeks in Washington",
-      "url": "https://www.bangordailynews.com/2026/11/23/politics/washington/susan-collins-final-weeks-washington-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-23T06:00:00+00:00"
-    },
-    {
       "title": "The lost education of a Maine boy held down and isolated 200 times",
       "url": "https://themainemonitor.org/held-down-and-isolated/",
       "source": "The Maine Monitor",
@@ -175,20 +210,6 @@
       "source": "Central Maine",
       "tag": "",
       "published": "2026-11-23T09:47:00+00:00"
-    },
-    {
-      "title": "Senate Commission Says China Is Seizing Drug Supply Chain, Pushes For Congressional Action",
-      "url": "https://www.themainewire.com/2026/11/senate-commission-says-china-is-seizing-drug-supply-chain-pushes-for-congressional-action/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-21T17:18:48+00:00"
-    },
-    {
-      "title": "American Red Cross bolsters community | Letter",
-      "url": "https://www.centralmaine.com/2026/11/23/american-red-cross-bolsters-community-letter/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-23T09:00:00+00:00"
     },
     {
       "title": "Report: AOC and Kamala Harris Are the 'X-Factor' in the 2028 Presidential Primary Contest",
@@ -231,13 +252,6 @@
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-22T19:12:41+00:00"
-    },
-    {
-      "title": "Small brush fire closes part of Portland’s Western Promenade",
-      "url": "https://www.pressherald.com/2026/11/22/small-brush-fire-closes-part-of-portlands-western-promenade/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-22T21:38:34+00:00"
     },
     {
       "title": "Licking batteries, house rent blues and the proper spelling of ‘Zayre’s’ | Column",
