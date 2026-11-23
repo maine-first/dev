@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:00:17+00:00",
+  "updated": "2026-11-23T12:21:59+00:00",
   "splash": {
     "title": "MaineHousing Awards Combined $12.7 Million in State and Federal Tax Credits to Support 186 Affordable Units",
     "url": "https://www.themainewire.com/2026/11/mainehousing-awards-combined-12-7-million-in-state-and-federal-tax-credits-to-support-186-affordable-units/",
@@ -30,18 +30,32 @@
       "published": "2026-11-22T13:42:09+00:00"
     },
     {
-      "title": "Maine hunters stock soup kitchens and food pantries with donated game meat",
-      "url": "https://www.sunjournal.com/2026/11/23/maine-hunters-stock-soup-kitchens-and-food-pantries-with-donated-game-meat/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-23T09:00:00+00:00"
-    },
-    {
       "title": "Trump’s Drug Czar Sara Carter to Discuss Maine’s Drug Crisis With The Maine Wire Monday",
       "url": "https://www.themainewire.com/2026/11/trumps-drug-czar-sara-carter-to-discuss-maines-drug-crisis-with-the-maine-wire-monday/",
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-22T13:27:39+00:00"
+    },
+    {
+      "title": "Look back at Thanksgiving in Maine in the 1940s",
+      "url": "https://www.pressherald.com/2026/11/23/look-back-at-thanksgiving-in-maine-in-the-1940s/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-23T11:00:00+00:00"
+    },
+    {
+      "title": "Dem presidential field awaits AOC and Kamala...",
+      "url": "https://feedpress.me/link/20202/17536804/4HmcW",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-23T11:13:36+00:00"
+    },
+    {
+      "title": "Maine hunters stock soup kitchens and food pantries with donated game meat",
+      "url": "https://www.sunjournal.com/2026/11/23/maine-hunters-stock-soup-kitchens-and-food-pantries-with-donated-game-meat/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-23T09:00:00+00:00"
     },
     {
       "title": "The lost education of a Maine boy held down and isolated 200 times",
@@ -65,7 +79,7 @@
       "published": "2026-11-23T06:00:00+00:00"
     },
     {
-      "title": "Susan Collins’ campaign reminded us that Maine has not outgrown long-time prejudices",
+      "title": "Susan Collins’ campaign reminded us that Maine has not outgrown longtime prejudices",
       "url": "https://www.bangordailynews.com/2026/11/23/opinion/opinion-contributor/susan-collins-maine-has-not-outgrown-long-time-prejudices/",
       "source": "Bangor Daily News",
       "tag": "",
@@ -121,20 +135,6 @@
       "published": "2026-11-23T09:00:00+00:00"
     },
     {
-      "title": "Dem presidential field awaits AOC and Kamala...",
-      "url": "https://feedpress.me/link/20202/17536804/4HmcW",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-23T09:22:36+00:00"
-    },
-    {
-      "title": "Report: AOC and Kamala Harris Are the 'X-Factor' in the 2028 Presidential Primary Contest",
-      "url": "https://www.breitbart.com/politics/2026/11/22/34219177report-aoc-and-kamala-harris-are-the-x-factor-in-the-2028-presidential-primary-contest/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-22T14:07:16+00:00"
-    },
-    {
       "title": "Senate Commission Says China Is Seizing Drug Supply Chain, Pushes For Congressional Action",
       "url": "https://www.themainewire.com/2026/11/senate-commission-says-china-is-seizing-drug-supply-chain-pushes-for-congressional-action/",
       "source": "The Maine Wire",
@@ -156,11 +156,11 @@
       "published": "2026-11-21T17:10:44+00:00"
     },
     {
-      "title": "Reader searching for peach blossoms, raspberry-filled candies | Sun Spots",
-      "url": "https://www.sunjournal.com/2026/11/22/reader-searching-for-peach-blossoms-raspberry-filled-candies-sun-spots/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-23T01:35:07+00:00"
+      "title": "Report: AOC and Kamala Harris Are the 'X-Factor' in the 2028 Presidential Primary Contest",
+      "url": "https://www.breitbart.com/politics/2026/11/22/34219177report-aoc-and-kamala-harris-are-the-x-factor-in-the-2028-presidential-primary-contest/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-22T14:07:16+00:00"
     },
     {
       "title": "Maine electric utility regulator may consider CMP whistleblower complaint in rate case",
@@ -168,6 +168,13 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-20T20:13:16+00:00"
+    },
+    {
+      "title": "Reader searching for peach blossoms, raspberry-filled candies | Sun Spots",
+      "url": "https://www.sunjournal.com/2026/11/22/reader-searching-for-peach-blossoms-raspberry-filled-candies-sun-spots/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-23T01:35:07+00:00"
     },
     {
       "title": "Maine teen drowns after canoe overturns on Moosehead Lake",
