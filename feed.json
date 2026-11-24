@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:55:07+00:00",
+  "updated": "2026-11-24T10:44:46+00:00",
   "splash": {
     "title": "Dems to open primary debates in June...",
     "url": "https://feedpress.me/link/20202/17538513/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start",
@@ -35,6 +35,13 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-23T16:50:40+00:00"
+    },
+    {
+      "title": "Fetherston: Ogunquit Fined a Family Over Tin Roosters. Now It Has to Answer in Federal Court",
+      "url": "https://www.themainewire.com/2026/11/fetherston-ogunquit-fined-a-family-over-tin-roosters-now-it-has-to-answer-in-federal-court/",
+      "source": "The Maine Wire",
+      "tag": "",
+      "published": "2026-11-23T15:16:51+00:00"
     },
     {
       "title": "Gather to Grow seeks support for growing pantry | Sun Spots",
@@ -79,20 +86,6 @@
       "published": "2026-11-24T09:00:00+00:00"
     },
     {
-      "title": "Fetherston: Ogunquit Fined a Family Over Tin Roosters. Now It Has to Answer in Federal Court",
-      "url": "https://www.themainewire.com/2026/11/fetherston-ogunquit-fined-a-family-over-tin-roosters-now-it-has-to-answer-in-federal-court/",
-      "source": "The Maine Wire",
-      "tag": "",
-      "published": "2026-11-23T15:16:51+00:00"
-    },
-    {
-      "title": "LIHEAP heating program is needed now more than ever | Opinion",
-      "url": "https://www.centralmaine.com/2026/11/24/liheap-heating-program-is-needed-now-more-than-ever-opinion/",
-      "source": "Central Maine",
-      "tag": "",
-      "published": "2026-11-24T09:45:00+00:00"
-    },
-    {
       "title": "South Portland City Hall Is Reopening After A Cyberattack, But Some Systems Are Still Offline.",
       "url": "https://www.themainewire.com/2026/11/south-portland-city-hall-is-reopening-after-a-cyberattack-but-some-systems-are-still-offline/",
       "source": "The Maine Wire",
@@ -112,6 +105,13 @@
       "source": "RedState",
       "tag": "primary",
       "published": "2026-11-24T00:19:25+00:00"
+    },
+    {
+      "title": "LIHEAP heating program is needed now more than ever | Opinion",
+      "url": "https://www.centralmaine.com/2026/11/24/liheap-heating-program-is-needed-now-more-than-ever-opinion/",
+      "source": "Central Maine",
+      "tag": "",
+      "published": "2026-11-24T09:45:00+00:00"
     },
     {
       "title": "US must keep word to Afghan allies",
@@ -219,13 +219,6 @@
       "published": "2026-11-24T00:22:02+00:00"
     },
     {
-      "title": "South Portland board opts not to alter elementary school districts",
-      "url": "https://www.pressherald.com/2026/11/23/south-portland-board-opts-not-to-alter-elementary-school-districts/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-24T02:47:29+00:00"
-    },
-    {
       "title": "GOP Should Take 'TrumpCare' Proposals Seriously",
       "url": "https://www.realclearpolitics.com/congress/links/gop-should-take-trumpcare-proposals-seriously-2026-11-23",
       "source": "RealClearPolitics",
@@ -233,11 +226,11 @@
       "published": "2026-11-23T16:07:52+00:00"
     },
     {
-      "title": "NC Congressman Levels Hakeem Jeffries and Sets Tone for GOP Messaging Headed Into 2027",
-      "url": "https://redstate.com/sister-toldjah/2026/11/23/jeffries-pushes-amnesty-and-nc-congressman-is-not-having-it-n2209708",
-      "source": "RedState",
-      "tag": "primary",
-      "published": "2026-11-23T17:48:48+00:00"
+      "title": "South Portland board opts not to alter elementary school districts",
+      "url": "https://www.pressherald.com/2026/11/23/south-portland-board-opts-not-to-alter-elementary-school-districts/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-24T02:47:29+00:00"
     },
     {
       "title": "Speaker Johnson Begging GOP To Show Up Is Hilarious",
@@ -245,6 +238,13 @@
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-23T12:38:09+00:00"
+    },
+    {
+      "title": "NC Congressman Levels Hakeem Jeffries and Sets Tone for GOP Messaging Headed Into 2027",
+      "url": "https://redstate.com/sister-toldjah/2026/11/23/jeffries-pushes-amnesty-and-nc-congressman-is-not-having-it-n2209708",
+      "source": "RedState",
+      "tag": "primary",
+      "published": "2026-11-23T17:48:48+00:00"
     },
     {
       "title": "Planned legislation would name new bridge linking Topsham and Brunswick | Column",
@@ -273,6 +273,27 @@
       "source": "Maine Public",
       "tag": "",
       "published": "2026-11-23T21:04:42+00:00"
+    },
+    {
+      "title": "Longtime leader of Maine construction giant dies at 72",
+      "url": "https://www.pressherald.com/2026/11/23/longtime-leader-of-maine-construction-giant-dies-at-72/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-23T20:58:39+00:00"
+    },
+    {
+      "title": "Maine activists want Angus King to oppose Schumer. It doesn’t seem to be working.",
+      "url": "https://www.pressherald.com/2026/11/23/maine-activists-want-angus-kings-to-oppose-schumer-it-dont-seem-to-be-working/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-23T20:45:14+00:00"
+    },
+    {
+      "title": "Lagrange man identified as motorcyclist killed in Alton crash",
+      "url": "https://www.pressherald.com/2026/11/23/lagrange-man-identified-as-motorcyclist-killed-in-alton-crash/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-23T20:37:09+00:00"
     },
     {
       "title": "Fairfield selects members for new Charter Review Committee",
