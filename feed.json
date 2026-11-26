@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:22:50+00:00",
+  "updated": "2026-11-26T04:31:33+00:00",
   "splash": {
     "title": "Bangor Woman to Spend Just One Day in Prison Following Bank Fraud Scheme",
     "url": "https://www.themainewire.com/2026/11/bangor-woman-to-spend-just-one-day-in-prison-following-bank-fraud-scheme/",
@@ -86,18 +86,18 @@
       "published": "2026-11-26T02:44:15+00:00"
     },
     {
-      "title": "Hannity has outlasted FOX rivals. Now he's eyeing Republican future...",
-      "url": "https://feedpress.me/link/20202/17540260/sean-hannity-has-outlasted-fox-rivals-now-hes-eyeing-gops-future",
-      "source": "Drudge Report",
-      "tag": "primary",
-      "published": "2026-11-26T03:07:36+00:00"
-    },
-    {
       "title": "Acadia National Park to collect winter entrance fees at Jordan Pond",
       "url": "https://www.bangordailynews.com/2026/11/25/hancock/hancock-government/acadia-national-park-to-collect-winter-entrance-fee-at-jordan-pond/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-25T23:01:02+00:00"
+    },
+    {
+      "title": "Hannity has outlasted FOX rivals. Now he's eyeing Republican future...",
+      "url": "https://feedpress.me/link/20202/17540260/sean-hannity-has-outlasted-fox-rivals-now-hes-eyeing-gops-future",
+      "source": "Drudge Report",
+      "tag": "primary",
+      "published": "2026-11-26T03:07:36+00:00"
     },
     {
       "title": "Pass the Turkey, Not the Talking Points: New Poll Shows Republicans Still Back Israel",
@@ -128,13 +128,6 @@
       "published": "2026-11-25T22:24:16+00:00"
     },
     {
-      "title": "Chester official charged after threatening hunter with ‘two black eyes’",
-      "url": "https://www.bangordailynews.com/2026/11/25/penobscot/penobscot-police-courts/chester-official-charged-with-harassment-hunter/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-25T21:59:46+00:00"
-    },
-    {
       "title": "Washington County commissioners clash with lawmakers over budget cuts",
       "url": "https://themainemonitor.org/washington-commissioners-clash-lawmakers-budget-cuts/",
       "source": "The Maine Monitor",
@@ -142,11 +135,11 @@
       "published": "2026-11-25T17:11:55+00:00"
     },
     {
-      "title": "CMMC in Lewiston suspends nurse who spoke at union town hall",
-      "url": "https://www.sunjournal.com/2026/11/25/cmmc-in-lewiston-suspends-nurse-who-spoke-at-union-town-hall/",
-      "source": "Sun Journal",
+      "title": "Chester official charged after threatening hunter with ‘two black eyes’",
+      "url": "https://www.bangordailynews.com/2026/11/25/penobscot/penobscot-police-courts/chester-official-charged-with-harassment-hunter/",
+      "source": "Bangor Daily News",
       "tag": "",
-      "published": "2026-11-25T23:04:06+00:00"
+      "published": "2026-11-25T21:59:46+00:00"
     },
     {
       "title": "University of Southern Maine Hosts “Sex Trivia” and Hands Out Sex Toy Goodie Bags While UMaine Holds “Sexual Health Jewelry Making”",
@@ -154,6 +147,13 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-24T20:05:48+00:00"
+    },
+    {
+      "title": "CMMC in Lewiston suspends nurse who spoke at union town hall",
+      "url": "https://www.sunjournal.com/2026/11/25/cmmc-in-lewiston-suspends-nurse-who-spoke-at-union-town-hall/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-25T23:04:06+00:00"
     },
     {
       "title": "Thanksgiving storm, wintry conditions spur several Maine weather advisories",
@@ -184,18 +184,18 @@
       "published": "2026-11-25T22:00:00+00:00"
     },
     {
-      "title": "Bangor Area Homeless Shelter aims to revive Project HOPE in Bangor",
-      "url": "https://www.mainepublic.org/health/2026-11-25/bangor-area-homeless-shelter-aims-to-revive-project-hope-in-bangor",
-      "source": "Maine Public",
-      "tag": "",
-      "published": "2026-11-25T21:48:34+00:00"
-    },
-    {
       "title": "Two Maine residents sue ICE for keeping their cash, IDs and belongings",
       "url": "https://www.sunjournal.com/2026/11/25/two-maine-residents-sue-ice-for-keeping-their-cash-ids-and-belongings/",
       "source": "Sun Journal",
       "tag": "",
       "published": "2026-11-25T20:04:40+00:00"
+    },
+    {
+      "title": "Bangor Area Homeless Shelter aims to revive Project HOPE in Bangor",
+      "url": "https://www.mainepublic.org/health/2026-11-25/bangor-area-homeless-shelter-aims-to-revive-project-hope-in-bangor",
+      "source": "Maine Public",
+      "tag": "",
+      "published": "2026-11-25T21:48:34+00:00"
     },
     {
       "title": "MaineHousing announces $13 million for 88 new affordable apartments",
