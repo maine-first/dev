@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:09:15+00:00",
+  "updated": "2026-11-27T15:23:01+00:00",
   "splash": {
     "title": "Following Teen’s Death, Waldoboro Residents Demand Answers on Drug Houses, Crime and Public Safety",
     "url": "https://www.themainewire.com/2026/11/following-teens-death-waldoboro-residents-demand-answers-on-drug-houses-crime-and-public-safety/",
@@ -65,6 +65,13 @@
       "published": "2026-11-27T12:54:09+00:00"
     },
     {
+      "title": "2 more infected with meningococcal disease in Washington County",
+      "url": "https://www.bangordailynews.com/2026/11/27/down-east/downeast-health/maine-washington-county-meningococcal-disease-infections/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-27T14:51:40+00:00"
+    },
+    {
       "title": "The 2028 Presidential Election Is All About Trump",
       "url": "https://www.realclearpolitics.com/presidential/links/the-2028-presidential-election-is-all-about-trump-2026-11-27",
       "source": "RealClearPolitics",
@@ -79,11 +86,32 @@
       "published": "2026-11-27T13:59:56+00:00"
     },
     {
+      "title": "Heavy rain winds down as power remains out for hundreds of thousands on the East Coast",
+      "url": "https://www.bangordailynews.com/2026/11/27/nation/heavy-rain-winds-down-as-power-remains-out-for-hundreds-of-thousands-on-the-east-coast/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-27T13:56:00+00:00"
+    },
+    {
+      "title": "These Maine heat-pump owners will get discounted power this winter",
+      "url": "https://www.sunjournal.com/2026/11/27/these-maine-heat-pump-owners-will-get-discounted-power-this-winter/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-27T15:17:00+00:00"
+    },
+    {
       "title": "2 injured in Milford UTV rollover",
       "url": "https://www.bangordailynews.com/2026/11/27/bangor/bangor-police-courts/milford-maine-thanksgiving-utv-rollover-crash/",
       "source": "Bangor Daily News",
       "tag": "",
       "published": "2026-11-27T13:25:08+00:00"
+    },
+    {
+      "title": "Maine Field Notes: A mountain of reasons to be thankful",
+      "url": "https://www.sunjournal.com/2026/11/27/maine-field-notes-a-mountain-of-reasons-to-be-thankful/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-27T14:18:41+00:00"
     },
     {
       "title": "Morning Update: What you need to know in Maine today",
@@ -142,34 +170,6 @@
       "published": "2026-11-27T09:00:00+00:00"
     },
     {
-      "title": "Skowhegan man blends modern comforts with off-grid living",
-      "url": "https://www.sunjournal.com/2026/11/27/skowhegan-man-blends-modern-comforts-with-off-grid-living/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-27T09:00:00+00:00"
-    },
-    {
-      "title": "Ways to ‘glow up your stay in the Boothbay region",
-      "url": "https://www.sunjournal.com/2026/11/27/ways-to-glow-up-your-stay-in-the-boothbay-region/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-27T09:00:00+00:00"
-    },
-    {
-      "title": "Belfast to seek bids on former county courthouse cleanup project",
-      "url": "https://www.bangordailynews.com/2026/11/27/midcoast/midcoast-government/belfast-to-seek-bids-on-former-county-courthouse-cleanup-project/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-27T06:00:00+00:00"
-    },
-    {
-      "title": "Letter: Congress needs to do its job",
-      "url": "https://www.bangordailynews.com/2026/11/27/opinion/letters/congress-job-government-shutdown-solution-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "tag": "",
-      "published": "2026-11-27T06:00:00+00:00"
-    },
-    {
       "title": "Listen and look out for levity locally | Opinion",
       "url": "https://www.centralmaine.com/2026/11/27/listen-and-look-out-for-levity-locally-opinion/",
       "source": "Central Maine",
@@ -198,6 +198,20 @@
       "published": "2026-11-27T09:31:00+00:00"
     },
     {
+      "title": "Ways to glow up your stay in the Boothbay region",
+      "url": "https://www.pressherald.com/2026/11/27/ways-to-glow-up-your-stay-in-the-boothbay-region/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-27T09:00:00+00:00"
+    },
+    {
+      "title": "Skowhegan man blends modern comforts with off-grid living",
+      "url": "https://www.pressherald.com/2026/11/27/skowhegan-man-blends-modern-comforts-with-off-grid-living/",
+      "source": "Portland Press Herald",
+      "tag": "",
+      "published": "2026-11-27T09:00:00+00:00"
+    },
+    {
       "title": "GOP Sen. Cramer: Need to Codify Trump Chips EO 'So That It Isn't So Flexible'",
       "url": "https://www.breitbart.com/clips/2026/11/26/gop-sen-cramer-need-to-codify-trump-chips-eo-so-that-it-isnt-so-flexible/",
       "source": "Breitbart",
@@ -224,13 +238,6 @@
       "source": "The Maine Monitor",
       "tag": "",
       "published": "2026-11-25T20:50:44+00:00"
-    },
-    {
-      "title": "Westbrook dance group fundraises to perform after NYC Thanksgiving parade is postponed",
-      "url": "https://www.pressherald.com/2026/11/26/westbrook-dance-group-fundraises-to-perform-after-nyc-thanksgiving-parade-is-postponed/",
-      "source": "Portland Press Herald",
-      "tag": "",
-      "published": "2026-11-26T23:01:20+00:00"
     },
     {
       "title": "Washington County commissioners clash with lawmakers over budget cuts",
