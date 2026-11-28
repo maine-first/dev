@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-28T10:16:21+00:00",
+  "updated": "2026-11-28T11:13:45+00:00",
   "splash": {
     "title": "Vance and Rubio learn the price of loyalty...",
     "url": "https://feedpress.me/link/20202/17542180/vance-rubio-trump-downside-2028",
     "source": "Drudge Report",
     "tag": "primary",
-    "published": "2026-11-28T09:04:36+00:00"
+    "published": "2026-11-28T10:49:36+00:00"
   },
   "items": [
     {
@@ -14,6 +14,13 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-27T13:42:04+00:00"
+    },
+    {
+      "title": "Systemic collapse",
+      "url": "https://www.bangordailynews.com/2026/11/28/opinion/danby-ink/systemic-collapse/",
+      "source": "Bangor Daily News",
+      "tag": "",
+      "published": "2026-11-28T11:00:00+00:00"
     },
     {
       "title": "America’s Long-Running War On Terror Mission In Somalia Gets Another Chapter",
@@ -28,13 +35,6 @@
       "source": "The Maine Wire",
       "tag": "",
       "published": "2026-11-27T15:34:49+00:00"
-    },
-    {
-      "title": "Mainers are looking for holiday deals — for themselves",
-      "url": "https://www.sunjournal.com/2026/11/28/mainers-are-looking-for-holiday-deals-for-themselves/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-28T09:00:00+00:00"
     },
     {
       "title": "Houlton Police Arrest Three Burglars Found with Stolen Property",
@@ -58,11 +58,11 @@
       "published": "2026-11-27T13:31:41+00:00"
     },
     {
-      "title": "It’s important we restore Maine’s sand dunes | Opinion",
-      "url": "https://www.centralmaine.com/2026/11/28/its-important-we-restore-maines-sand-dunes-opinion/",
-      "source": "Central Maine",
+      "title": "Mainers are looking for holiday deals — for themselves",
+      "url": "https://www.sunjournal.com/2026/11/28/mainers-are-looking-for-holiday-deals-for-themselves/",
+      "source": "Sun Journal",
       "tag": "",
-      "published": "2026-11-28T09:30:00+00:00"
+      "published": "2026-11-28T09:00:00+00:00"
     },
     {
       "title": "What’s so funny about birds? I’ve got a year’s worth of observations and bad jokes.",
@@ -100,11 +100,18 @@
       "published": "2026-11-28T06:00:00+00:00"
     },
     {
-      "title": "The names circulating for top jobs under Hannah Pingree",
-      "url": "https://www.bangordailynews.com/2026/11/28/politics/state-politics/the-names-circulating-for-top-jobs-under-hannah-pingree/",
-      "source": "Bangor Daily News",
+      "title": "It’s important we restore Maine’s sand dunes | Opinion",
+      "url": "https://www.centralmaine.com/2026/11/28/its-important-we-restore-maines-sand-dunes-opinion/",
+      "source": "Central Maine",
       "tag": "",
-      "published": "2026-11-28T06:00:00+00:00"
+      "published": "2026-11-28T09:30:00+00:00"
+    },
+    {
+      "title": "GOP Rep. Burchett Proposes 'Wreaking Havoc' on Nations Engaging in Unsolicited, Unprovoked Cyberattacks",
+      "url": "https://www.breitbart.com/clips/2026/11/27/gop-rep-burchett-proposes-wreaking-havoc-on-nations-engaging-in-unsolicited-unprovoked-cyberattacks/",
+      "source": "Breitbart",
+      "tag": "primary",
+      "published": "2026-11-28T04:45:47+00:00"
     },
     {
       "title": "Poles installed for new lineman pre-apprenticeship program at CATC in Augusta | Photo",
@@ -119,13 +126,6 @@
       "source": "Central Maine",
       "tag": "",
       "published": "2026-11-28T09:00:00+00:00"
-    },
-    {
-      "title": "GOP Rep. Burchett Proposes 'Wreaking Havoc' on Nations Engaging in Unsolicited, Unprovoked Cyberattacks",
-      "url": "https://www.breitbart.com/clips/2026/11/27/gop-rep-burchett-proposes-wreaking-havoc-on-nations-engaging-in-unsolicited-unprovoked-cyberattacks/",
-      "source": "Breitbart",
-      "tag": "primary",
-      "published": "2026-11-28T04:45:47+00:00"
     },
     {
       "title": "GOP Should Worry About Gina Hinojosa in 2028",
@@ -177,18 +177,18 @@
       "published": "2026-11-27T21:53:27+00:00"
     },
     {
-      "title": "Eustis taking nomination papers for March election",
-      "url": "https://www.sunjournal.com/2026/11/27/eustis-taking-nomination-papers-for-march-election/",
-      "source": "Sun Journal",
-      "tag": "",
-      "published": "2026-11-27T20:57:29+00:00"
-    },
-    {
       "title": "The 2028 Presidential Election Is All About Trump",
       "url": "https://www.realclearpolitics.com/presidential/links/the-2028-presidential-election-is-all-about-trump-2026-11-27",
       "source": "RealClearPolitics",
       "tag": "poll",
       "published": "2026-11-27T12:54:09+00:00"
+    },
+    {
+      "title": "Eustis taking nomination papers for March election",
+      "url": "https://www.sunjournal.com/2026/11/27/eustis-taking-nomination-papers-for-march-election/",
+      "source": "Sun Journal",
+      "tag": "",
+      "published": "2026-11-27T20:57:29+00:00"
     },
     {
       "title": "Lewiston teen injured in shooting",
